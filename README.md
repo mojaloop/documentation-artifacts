@@ -4,4 +4,4 @@ Repository to enable sharing, distribution of presentations, discussion document
 
 ### Presentations
 
-- [April 2019 PI-6_OSS_community session](./presentations/April%202019%20PI-6_OSS_community%20session/readme.md)
+- [April 2019 PI-6_OSS_community session](./presentations/April%202019%20PI-6_OSS_community%20session/)
