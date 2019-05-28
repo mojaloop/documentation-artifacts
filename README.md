@@ -2,6 +2,8 @@
 
 Repository to enable sharing, distribution of presentations, discussion documents and other such artifacts.
 
+Refer to https://github.com/mojaloop/documentation if you are looking for general Mojaloop documentation.
+
 _Note: large immutable documents are stored here in an effort to optimised the https://github.com/mojaloop/documentation repository_
 
 ### Presentations
