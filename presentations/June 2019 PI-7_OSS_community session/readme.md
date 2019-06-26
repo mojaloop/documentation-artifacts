@@ -18,6 +18,13 @@
 
 - [Key Implementation Choices](./Mojaloop%20Implementations%20-%20Key%20Choices-Day2.pdf)
 - [Entity Management](./Mojaloop%20Entity%20Management%20Update%20Jun%202019.pdf)
+- [Mowali Update](./Mowali%20Update.pdf)
+- [DFS Lab Hackathon](./PI7%20Convening%20-%20DFS%20Lab%20Hackathon%20Presentation.pdf)
+- [TIPS Presentation](./TIPS%20Presentation%20for%20Mojaloop%20PI-7%20Convening.pdf)
+- [HiPipo Hackathon](./interoperability%20-%20hackthon_v4-1.pdf)
+- [Fraud Management](./Fraud%20Management.pdf)
+- [GSMA Inclusive Tech Lab](./GSMA%20Inclusive%20Tech%20Lab%20-%20Mojaloop%20Community%20Meeting%20-%2020190626.pdf)
+
 
 ### Thursday - June 27, 2019
 
