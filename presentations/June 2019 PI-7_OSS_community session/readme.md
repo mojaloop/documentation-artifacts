@@ -7,7 +7,7 @@
 ### Monday - Pre Session
 
 - [Intro to FSP and L1P](./pre-workshop/Intro%20to%20FSP%20and%20L1P%20-%202019-06-21.pdf)
-- [Mojaloop Pre Session](./pre-workshop/pre-workshop/Mojaloop_Pre_Session_June_2019-1.pdf)
+- [Mojaloop Pre Session](./pre-workshop/Mojaloop_Pre_Session_June_2019-1.pdf)
 
 ### Tuesday - June 25, 2019
 
