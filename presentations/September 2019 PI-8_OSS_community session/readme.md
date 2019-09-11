@@ -10,7 +10,6 @@
 ### Tuesday - September 10, 2019
 
 - [OSS PI-7 Review](./Mojaloop_OSS-PI-8_Sep2019_technical-overview-v1-published.pdf)
-
 - [ISO Integration Part II](./Mojaloop%20ISO%20Integration%20Part%20II%20-%20Abidjan.pdf)
 - [Crosslake PI-7 Summary/OSS Readiness](./pi7-review_crosslake.pdf)
 - Mifos Updates
