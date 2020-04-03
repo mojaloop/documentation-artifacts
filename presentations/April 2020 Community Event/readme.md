@@ -1,10 +1,12 @@
 # **PI 10 Mojaloop Community Event Agenda**
 
-Pre-Read Materials are located here.
+Please reivew some relevant links:
 
-Speaker prep information located here.
+* Pre-Read Materials are located [here](./Pre_Read)
 
-Presentation decks can be found by clicking on the presentation session.
+* Speaker prep information and [template](./Mojaloop%20PPT%20TEMPLATE.pptx)
+
+* Presentation decks can be found by clicking on the presentation session.
 
 |            |          |          |                                                          |                                                                                                                                                                                                  |           |                                                                      |
 |------------|----------|----------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------|
