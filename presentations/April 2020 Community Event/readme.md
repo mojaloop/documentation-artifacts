@@ -4,7 +4,7 @@ Please reivew some relevant links:
 
 * Pre-Read Materials are located [here](./Pre_Read)
 
-* Speaker prep [recording](https://zoom.us/rec/share/-OtxE57q3FtIHJHR7BznaPU9BsPDX6a81iVL-foNzUotjKnCtj7C6ZBPgwafAUyc) information and [template](./Pre_Read/Mojaloop%20PPT%20TEMPLATE.pptx)  
+* Speaker prep [recording](https://zoom.us/rec/share/3Ox3EI31zU9LW6fd2h34VLJ-EJzGaaa8g3UX_PMFmR7n-NIHptOrBWwVDlYDKWXX) information and [template](./Pre_Read/Mojaloop%20PPT%20TEMPLATE.pptx)  
 
 * Presentation decks and recordings can be found by clicking on the presentation session.
 
