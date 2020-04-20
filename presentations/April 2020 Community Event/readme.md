@@ -1,6 +1,7 @@
 # **PI 10 Mojaloop Community Event Agenda**
 
 Please reivew some relevant links:
+* Slack self sign-up: http://mojaloop.io/slack
 
 * Pre-Read Materials are located [here](./Pre_Read)
 
