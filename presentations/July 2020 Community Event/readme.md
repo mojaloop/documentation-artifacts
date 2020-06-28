@@ -32,7 +32,7 @@ Please reivew some relevant links:
 | 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
 
 ## DAY THREE - Business, Community wrap up and Technical Updates
-| Time (UTC/GMT) | End      | Duration | Tuesday: July 21, 2020                                 | Details                                                               | Track     | Speakers |
+| Time (UTC/GMT) | End      | Duration | Wednesday: July 22, 2020                                 | Details                                                               | Track     | Speakers |
 | -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
 | 11:00 AM       | 11:30 AM | 0:30     | Business wrap up                                       |                                                                       | Business  |          |
 | 11:30 AM       | 12:00 PM | 0:30     | Community wrap up / CLC                                | e.g. CLC votes if required, Hackathon updates etc                     | Community |          |
@@ -47,7 +47,7 @@ Please reivew some relevant links:
 | 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
 
 ## DAY FOUR - Technical Updates and PoC Presentations
-| Time (UTC/GMT) | End      | Duration | Tuesday: July 21, 2020                                 | Details                                                               | Track     | Speakers |
+| Time (UTC/GMT) | End      | Duration | Thursday: July 23, 2020                                 | Details                                                               | Track     | Speakers |
 | -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
 | 11:00 AM       | 12:00 PM | 1:00     | reserved for workstream                                |                                                                       | Technical |          |
 | 12:00 PM       | 12:30 PM | 0:30     | reserved for workstream                                |                                                                       | Technical |          |
@@ -63,7 +63,7 @@ Please reivew some relevant links:
 | 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
 
 ## DAY FIVE - Roadmap Planning
-| Time (UTC/GMT) | End      | Duration | Tuesday: July 21, 2020                                 | Details                                                               | Track     | Speakers |
+| Time (UTC/GMT) | End      | Duration | Friday: July 24, 2020                                 | Details                                                               | Track     | Speakers |
 | -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
 | 12:00 PM       | 1:00 PM  | 1:00     | Roadmap & Workstream Review                            | Present roadmap items for PI 10 Discuss topics and community interest | Community |          |
 | 1:00 PM        | 1:30 PM  | 0:30     | Voting and Break                                       |
