@@ -7,7 +7,7 @@ Please reivew some relevant links:
 * Speaker prep [recording](https://zoom.us/rec/share/3Ox3EI31zU9LW6fd2h34VLJ-EJzGaaa8g3UX_PMFmR7n-NIHptOrBWwVDlYDKWXX) information and [template](./Pre_Read/Mojaloop%20PPT%20TEMPLATE.pptx)  
 * Presentation [decks](./Presentations) and recordings can be found by clicking on the presentation session.
 
-# Draft Agenda
+# Agenda
 ## DAY ONE - Introduction
 | Time (UTC/GMT) | End      | Duration | Monday: July 20, 2020                                  | Description and Links                                                 | Track     | Speaker  |
 | -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
@@ -17,56 +17,53 @@ Please reivew some relevant links:
 | 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
 
 ## DAY TWO - Entity, Community and Business Updates
-| Time (UTC/GMT) | End      | Duration | Tuesday: July 21, 2020                                 | Details                                                               | Track     | Speakers |
-| -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
-| 11:00 AM       | 11:30 AM | 0:30     | Entity Updates                                         | Entity Updates                                                        | Community |          |
-| 11:30 AM       | 12:00 PM | 0:30     | Community Updates                                      | Community Updates                                                     | Community |          |
-| 12:00 PM       | 12:10 PM | 0:10     | Break                                                  |
-| 12:10 PM       | 1:00 PM  | 0:50     | reserved for business track                            | e.g. deployments, partnership updates etc                             | Business  |          |
-| 1:00 PM        | 1:50 PM  | 0:50     | reserved for business track                            | e.g. research, use case discussions etc                               | Business  |          |
-| 1:50 PM        | 2:20 PM  | 0:30     | reserved for business track                            |                                                                       | Business  |          |
-| 2:20 PM        | 2:30 PM  | 0:10     | Break                                                  |
-| 2:30 PM        | 3:00 PM  | 0:30     | reserved for business track                            | e.g. deployments, partnership updates etc                             | Business  |          |
-| 3:00 PM        | 3:30 PM  | 0:30     | reserved for business track                            | e.g. research, use case discussions etc                               | Business  |          |
-| 3:30 PM        | 4:00 PM  | 0:30     | reserved for business track                            |                                                                       | Business  |          |
-| 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
+| Time (UTC/GMT) | End      | Duration | Tuesday: July 21, 2020               | Details                                                                                                                              | Track     | Speakers                            |
+| -------------- | -------- | -------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------------------------------- |
+| 11:00 AM       | 11:30 AM | 0:30     | Entity Updates                       | Entity Updates                                                                                                                       | Community |                                     |
+| 11:30 AM       | 12:00 PM | 0:30     | Community Updates                    | Community Updates                                                                                                                    | Community | Simeon Oriko                        |
+| 12:00 PM       | 12:10 PM | 0:10     | Break                                |
+| 12:10 PM       | 1:00 PM  | 0:50     | Cross Network Report Out             | Report on progress on development of the cross-border proposal during the current PI and propose possible objectives for the next PI | Business  | Michael Richards, Adrian Hope-Baile |
+| 1:00 PM        | 1:50 PM  | 0:50     | reserved for business track          | e.g. research, use case discussions etc                                                                                              | Business  |                                     |
+| 1:50 PM        | 2:20 PM  | 0:30     | #40Days40FinTechs Initiative Lessons | #40Days40FinTechs Initiative report and Lessons from the community.                                                                  | Community | Innocent Kawooya                    |
+| 2:20 PM        | 2:30 PM  | 0:10     | Break                                |
+| 2:30 PM        | 3:10 PM  | 0:40     | Settlement                           | Describe progress on Settlement in this PI and outline proposals for work in the next PI.                                            | Business  | Michael Richards                    |
+| 3:10 PM        | 3:30 PM  | 0:20     | reserved for business track          | e.g. research, use case discussions etc                                                                                              | Business  |                                     |
+| 3:30 PM        | 4:00 PM  | 0:30     | reserved for business track          |                                                                                                                                      | Business  |                                     |
+| 4:00 PM        |          |          | Done                                 |                                                                                                                                      |           |                                     |
 
 ## DAY THREE - Business, Community wrap up and Technical Updates
-| Time (UTC/GMT) | End      | Duration | Wednesday: July 22, 2020                                 | Details                                                               | Track     | Speakers |
-| -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
-| 11:00 AM       | 11:30 AM | 0:30     | Business wrap up                                       |                                                                       | Business  |          |
-| 11:30 AM       | 12:00 PM | 0:30     | Community wrap up / CLC                                | e.g. CLC votes if required, Hackathon updates etc                     | Community |          |
-| 12:00 PM       | 12:10 PM | 0:10     | Break                                                  |
-| 12:10 PM       | 1:00 PM  | 0:50     | reserved for workstream                                |                                                                       | Technical |          |
-| 1:00 PM        | 1:50 PM  | 0:50     | reserved for workstream                                |                                                                       | Technical |          |
-| 1:50 PM        | 2:20 PM  | 0:30     | reserved for workstream                                |                                                                       | Technical |          |
-| 2:20 PM        | 2:30 PM  | 0:10     | Break                                                  |
-| 2:30 PM        | 3:00 PM  | 0:30     | reserved for workstream                                |                                                                       | Technical |          |
-| 3:00 PM        | 3:30 PM  | 0:30     | reserved for workstream                                |                                                                       | Technical |          |
-| 3:30 PM        | 4:00 PM  | 0:30     | reserved for workstream                                |                                                                       |           |          |
-| 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
-
+| Time (UTC/GMT) | End      | Duration | Wednesday: July 22, 2020                    | Details                                           | Track     | Speakers                      |
+| -------------- | -------- | -------- | ------------------------------------------- | ------------------------------------------------- | --------- | ----------------------------- |
+| 11:00 AM       | 11:30 AM | 0:30     | Business wrap up                            |                                                   | Business  |                               |
+| 11:30 AM       | 12:00 PM | 0:30     | Community wrap up / CLC                     | e.g. CLC votes if required, Hackathon updates etc | Community |                               |
+| 12:00 PM       | 12:10 PM | 0:10     | Break                                       |
+| 12:10 PM       | 1:00 PM  | 0:50     | Core Team                                   |                                                   | Technical | Sam Kummary                   |
+| 1:00 PM        | 1:50 PM  | 0:50     |                                             |                                                   |           |                               |
+| 1:50 PM        | 2:20 PM  | 0:30     | Code Quality Workstream                     |                                                   | Technical | Godfrey Kutumela              |
+| 2:20 PM        | 2:30 PM  | 0:10     | Break                                       |
+| 2:30 PM        | 3:00 PM  | 0:30     | Payment Initiation Service Providers (PISP) | Updates and Report out from the PISP Workstream   | Technical | Lewis Daly, JJ Geewax         |
+| 3:00 PM        | 3:30 PM  | 0:30     | Testing Toolkit                             |                                                   | Technical | Michael Richards, Sam Kummary |
+| 3:30 PM        | 4:00 PM  | 0:30     | OSS Onboarding                              |                                                   | Community | Simeon Oriko                  |
+| 4:00 PM        |          |          | Done                                        |                                                   |           |                               |
 ## DAY FOUR - Technical Updates and PoC Presentations
-| Time (UTC/GMT) | End      | Duration | Thursday: July 23, 2020                                 | Details                                                               | Track     | Speakers |
-| -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
-| 11:00 AM       | 12:00 PM | 1:00     | reserved for workstream                                |                                                                       | Technical |          |
-| 12:00 PM       | 12:30 PM | 0:30     | reserved for workstream                                |                                                                       | Technical |          |
-| 12:30 PM       | 1:20 PM  | 0:50     | reserved for workstream                                |                                                                       | Technical |          |
-| 1:20 PM        | 1:30 PM  | 0:10     | Break                                                  |
-| 1:30 PM        | 2:00 PM  | 0:30     | reserved for PoC Presentation                          |                                                                       | Technical |          |
-| 2:00 PM        | 2:30 PM  | 0:30     | reserved for PoC Presentation                          |                                                                       | Technical |          |
-| 2:30 PM        | 2:55 PM  | 0:25     | reserved for PoC Presentation                          |                                                                       | Technical |          |
-| 2:55 PM        | 3:00 PM  | 0:05     | Break                                                  |
-| 3:00 PM        | 3:20 PM  | 0:20     | reserved for PoC Presentation                          |                                                                       | Technical |          |
-| 3:20 PM        | 3:40 PM  | 0:20     | reserved for PoC Presentation                          |                                                                       | Technical |          |
-| 3:40 PM        | 4:00 PM  | 0:20     | reserved for PoC Presentation                          |                                                                       | Technical |          |
-| 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
-
+| Time (UTC/GMT) | End      | Duration | Thursday: July 23, 2020             | Details                                                                                                                                                                                                                                                        | Track     | Speakers                          |
+| -------------- | -------- | -------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------- |
+| 11:00 AM       | 12:00 PM | 1:00     | Fraud & Risk Management             |                                                                                                                                                                                                                                                                | Technical | Justus Ortlepp                    |
+| 12:00 PM       | 12:30 PM | 0:30     | Versioning Workstream               | Updates from the versioning workstream                                                                                                                                                                                                                         | Technical | Lewis Daly, Sam Kummary           |
+| 12:30 PM       | 1:20 PM  | 0:50     | Bulk Payments                       |                                                                                                                                                                                                                                                                | Technical | Sam Kummary                       |
+| 1:20 PM        | 1:30 PM  | 0:10     | Break                               |
+| 1:30 PM        | 2:00 PM  | 0:30     | Performance Engineering             |                                                                                                                                                                                                                                                                | Technical | Miguel de Barros, Bryan Schneider |
+| 2:00 PM        | 2:20 PM  | 0:20     | Portal for Hub Operators/TechOps    |                                                                                                                                                                                                                                                                | Technical | Nico Duvenage                     |
+| 2:20 PM        | 2:55 PM  | 0:35     | GSMA Interoperability Test Platform | A joint test environment for Mobile Money API and Mojaloop. The full platform will be launch on June 30, and we will show the latest updates and a demo to the community. And how anyone can start contributing to improve the platform and add new use cases. | Technical | Bruno Martins                     |
+| 2:55 PM        | 3:00 PM  | 0:05     | Break                               |
+| 3:00 PM        | 3:40 PM  | 0:40     | Rules Processing                    | Describe the business case for including a generic rules processor as part of the core Mojaloop product. Discuss the required characteristics for such a processor and propose a design to meet those requirements.                                            | Technical | Michael Richards, James Bush      |
+| 3:40 PM        | 4:00 PM  | 0:20     | reserved for PoC Presentation       |                                                                                                                                                                                                                                                                | Technical |                                   |
+| 4:00 PM        |          |          | Done                                |                                                                                                                                                                                                                                                                |           |                                   |
 ## DAY FIVE - Roadmap Planning
-| Time (UTC/GMT) | End      | Duration | Friday: July 24, 2020                                 | Details                                                               | Track     | Speakers |
-| -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
-| 12:00 PM       | 1:00 PM  | 1:00     | Roadmap & Workstream Review                            | Present roadmap items for PI 10 Discuss topics and community interest | Community |          |
-| 1:00 PM        | 1:30 PM  | 0:30     | Voting and Break                                       |
-| 1:30 PM        | 3:00 PM  | 1:30     | Workstream Discussions                                 | Individual workstream discussions                                     | Community |          |
-| 3:00 PM        | 4:00 PM  | 1:00     | Workstream Report outs & Closing                       | Individual workstreams present board and objectives                   | Community |          |
-| 4:00 PM        |          |          | Done     
+| Time (UTC/GMT) | End      | Duration | Friday: July 24, 2020            | Details                                                               | Track     | Speakers |
+| -------------- | -------- | -------- | -------------------------------- | --------------------------------------------------------------------- | --------- | -------- |
+| 11:00 AM       | 12:00 PM | 1:00     | Roadmap & Workstream Review      | Present roadmap items for PI 10 Discuss topics and community interest | Community |          |
+| 12:00 PM       | 1:00 PM  | 1:00     | Voting and Break                 |
+| 1:00 PM        | 2:30 AM  | 1:30     | Workstream Discussions           | Individual workstream discussions                                     | Community |          |
+| 2:30 PM        | 4:00 PM  | 1:30     | Workstream Report outs & Closing | Individual workstreams present board and objectives                   | Community |          |
+| 4:00 PM        |          |          | Done                             |                                                                       |           |          |
