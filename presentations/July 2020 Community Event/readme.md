@@ -62,7 +62,7 @@ Please reivew some relevant links:
 ## DAY FIVE - Roadmap Planning
 | Time (UTC/GMT) | End      | Duration | Friday: July 24, 2020            | Details                                                               | Track     | Speakers |
 | -------------- | -------- | -------- | -------------------------------- | --------------------------------------------------------------------- | --------- | -------- |
-| 11:00 AM       | 12:00 PM | 1:00     | Roadmap & Workstream Review      | Present roadmap items for PI 11 Discuss topics and community interest | Community |          |
+| 11:00 AM       | 12:00 PM | 1:00     | Roadmap & Workstream Review      | Present roadmap items for PI 11  Discuss topics and community interest | Community |          |
 | 12:00 PM       | 1:00 PM  | 1:00     | Voting and Break                 |
 | 1:00 PM        | 2:30 AM  | 1:30     | Workstream Discussions           | Individual workstream discussions                                     | Community |          |
 | 2:30 PM        | 4:00 PM  | 1:30     | Workstream Report outs & Closing | Individual workstreams present board and objectives                   | Community |          |
