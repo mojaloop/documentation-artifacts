@@ -37,7 +37,7 @@ Please reivew some relevant links:
 | 11:30 AM       | 12:00 PM | 0:30     | Community wrap up / CLC                     | e.g. CLC votes if required, Hackathon updates etc | Community |                               |
 | 12:00 PM       | 12:10 PM | 0:10     | Break                                       |
 | 12:10 PM       | 1:20 PM  | 0:50     | Core Team                                   |                                                   | Technical | Sam Kummary                   |
-| 1:20 PM        | 1:50 PM  | 0:50     | Modusbox Community Contributions            |                                                   | Community | Rob Reeve                               |
+| 1:20 PM        | 1:50 PM  | 0:50     | Modusbox Community Contributions            |                                                   | Community | Kent Brown, Paul Baker                               |
 | 1:50 PM        | 2:20 PM  | 0:30     | Code Quality Workstream                     |                                                   | Technical | Godfrey Kutumela              |
 | 2:20 PM        | 2:30 PM  | 0:10     | Break                                       |
 | 2:30 PM        | 3:00 PM  | 0:30     | Payment Initiation Service Providers (PISP) | Updates and Report out from the PISP Workstream   | Technical | Lewis Daly, JJ Geewax         |
