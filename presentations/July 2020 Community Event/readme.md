@@ -14,7 +14,7 @@ Please reivew some relevant links:
 | -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
 | 1:00 PM        | 2:50 PM  | 1:50     | Introduction and Business Overview of L1P and Mojaloop <br> * [Session discussion thread](https://community.mojaloop.io/t/introduction-and-business-overview-of-l1p-and-mojaloop/31)    | Level One Project Mojaloop Overview API Specification                 | Business  |          |
 | 2:50 PM        | 3:00 PM  | 0:10     | Break                                                  |
-| 3:00 PM        | 4:00 PM  | 1:20     | Mojaloop Technical Overview                            | Component Overview Mojaloop Technical Details & Installation          | Technical |          |
+| 3:00 PM        | 4:00 PM  | 1:20     | Mojaloop Technical Overview <br> * [Session discussion thread](https://community.mojaloop.io/t/mojaloop-technical-overview/32)                           | Component Overview Mojaloop Technical Details & Installation          | Technical |          |
 | 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
 
 ## DAY TWO - Foundation, Community and Business Updates
