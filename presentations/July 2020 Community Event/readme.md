@@ -12,7 +12,7 @@ Please reivew some relevant links:
 ## DAY ONE - Introduction
 | Time (UTC/GMT) | End      | Duration | Monday: July 20, 2020                                  | Description and Links                                                 | Track     | Speaker  |
 | -------------- | -------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------- | --------- | -------- |
-| 1:00 PM        | 2:50 PM  | 1:50     | Introduction and Business Overview of L1P and Mojaloop | Level One Project Mojaloop Overview API Specification                 | Business  |          |
+| 1:00 PM        | 2:50 PM  | 1:50     | Introduction and Business Overview of L1P and Mojaloop <br> [Session discussion thread](https://community.mojaloop.io/t/introduction-and-business-overview-of-l1p-and-mojaloop/31]    | Level One Project Mojaloop Overview API Specification                 | Business  |          |
 | 2:50 PM        | 3:00 PM  | 0:10     | Break                                                  |
 | 3:00 PM        | 4:00 PM  | 1:20     | Mojaloop Technical Overview                            | Component Overview Mojaloop Technical Details & Installation          | Technical |          |
 | 4:00 PM        |          |          | Done                                                   |                                                                       |           |          |
