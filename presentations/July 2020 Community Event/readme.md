@@ -71,7 +71,8 @@ Please reivew some relevant links:
 | Time (UTC/GMT) | End      | Duration | Friday: July 24, 2020            | Details                                                               | Track     | Speakers |
 | -------------- | -------- | -------- | -------------------------------- | --------------------------------------------------------------------- | --------- | -------- |
 | 11:00 AM       | 12:00 PM | 01:00    | Roadmap & Workstream Review      | Present roadmap items for PI 11 Discuss topics and community interest | Community |          |
-| 12:00 PM       | 1:00 PM  | 01:00    | Voting and Break                 |                                                                       |           |          |
+| 12:00 PM       | 12:30 PM  | 00:30    | Roadmap Voting                 | RE\eview roadmap items and [vote](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/July%202020%20Community%20Event/Pre-Read/vote.md) for your top three items based on business value                                                                      |Community |          |
+| 12:30 AM       | 1:00 PM | 00:30    | Break      | Session Break | Community |          |
 | 1:00 PM        | 2:30 AM  | 01:30    | Workstream Discussions           | Individual workstream discussions                                     | Community |          |
 | 2:30 PM        | 4:00 PM  | 01:30    | Workstream Report outs & Closing | Individual workstreams present board and objectives                   | Community |          |
 | 4:00 PM        |          |          | Done                             |                                                                       |           |          |
