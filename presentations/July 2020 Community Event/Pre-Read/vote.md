@@ -1,8 +1,10 @@
 # ROADMAP VOTING 
 
-Welcome to the PI-11 roadmap voting process.
-Go to PowerNoodle to vote [HERE](https://app.powernoodle.com/)
-- Each individal gets 3 votes
+## Welcome to the PI-11 roadmap voting   
+- Please review the below roadmap items before voting 
+- Each individual gets 3 votes
+- When you are ready to vote Go to PowerNoodle [HERE](https://app.powernoodle.com/)
+- You can change your vote anytime up to **Friday the 24th at 12:30PM GMT**
 
 ## Roadmap Topics & Business Value
 
