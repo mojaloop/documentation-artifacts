@@ -13,6 +13,7 @@
 | Code quality and Security                                                          | Additional development to ensure Mojaloop is of high quality with robust security practices                                  |
 | Cross Network / Currency (CNP/FXP)                                                 | Enhance Mojaloop to support cross-border and cross-network payments (payments from one country/currency/provider to another) |
 | Fraud Management                                                                   | Introduce a framework technology to help with the management and prevention of fraud within the system                       |
+| GSMA Lab                                                                   | Enhancments to the GSMA lab                       |
 | Leadership & Community Management | Provide guidance, governance and support for the development of tools, hack-a-thons and communication to community members   |
 | LPS Adapter Enhancements                            | Develop future pilots and/or use cases for the Legacy Payments System (LPS) , ATM, Point of Sale (PoS), etc..                                                                                                                            |
 | Payment Initiation Service Provider (PISP) Stream                                  |                                                                                                                              |
