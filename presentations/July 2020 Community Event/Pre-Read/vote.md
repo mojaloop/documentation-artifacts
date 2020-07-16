@@ -1,34 +1,32 @@
 # ROADMAP VOTING 
 
 ## Welcome to the PI-11 roadmap voting   
-- Please review the below roadmap items before voting 
+- Please review the roadmap items below, before voting 
 - Each individual gets 3 votes
-- When you are ready to vote Go to PowerNoodle [HERE](https://app.powernoodle.com/PN/B234B12CCED3)
+- When you are ready to vote, go to PowerNoodle [HERE](https://app.powernoodle.com/PN/B234B12CCED3)
 - You can change your vote anytime up to **Friday the 24th at 12:30PM GMT**
 
 ## Roadmap Topics & Business Value
 
-| Title                                                                              | Business Value                                                                                                               |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Code quality and Security                                                          | Additional development to ensure Mojaloop is of high quality with robust security practices                                  |
-| Cross Network / Currency (CNP/FXP)                                                 | Enhance Mojaloop to support cross-border and cross-network payments (payments from one country/currency/provider to another) |
-| Fraud Management                                                                   | Introduce a framework technology to help with the management and prevention of fraud within the system                       |
-| GSMA Lab                                                                   | Enhancments to the GSMA lab                       |
-| Leadership & Community Management | Provide guidance, governance and support for the development of tools, hack-a-thons and communication to community members   |
-| LPS Adapter Enhancements                            | Develop future pilots and/or use cases for the Legacy Payments System (LPS) , ATM, Point of Sale (PoS), etc..                                                                                                                            |
-| Payment Initiation Service Provider (PISP) Stream                                  |                                                                                                                              |
-| Payments Hub (MIFOS)                                                               |                                                                                                                              |
-| Performance: PoC learnings implementation           | Implement POC and/or refactor current code to take in learnings from P-10 Perf POC                                           |
-| Performance: Characterization                                                      | Provide documentation. Benchmarks, requirements and expected performance results for Mojaloop Core                           |
-| Ticketing system                                                                   | Develop a Proof of Concept                                                                                                   |
-| Portal for Hub Operations and Hub TechOps                                          | Development of a portal for Hub Operators and DevOps                                                                         |
-| Portals for Onboarding & Managing DFSPs                                            | Portal development improvements and documentation to ease the onboarding for new community members and/or DFSPs              |
-| Rules API                                                                          |                                                                                                                              |
-| Secure auditing / Forensic Logging                                                 | Develop a Proof of Concept and Design work for a Rules API                                                                   |
-| Settlement-v2                                                                      |                                                                                                                              |
-| Split Payment Capability (SNAPP)                                                   | Further development efforts and evangelize the split payments concept                                                        |
-| Standardize operations (Admin) API                                                 |                                                                                                                              |
-| Streamline Testing & QA                                                            |                                                                                                                              |
-| Testing toolkit for FSPs, Hubs                                                     |                                                                                                                              |
-| Versioning standards, version maintenance                                          | Provide enhancements to make it easier for Mojaloop consumers to upgrade to new versions of the platform                     |
-| Web Payments (Coil)                                                                | Web-payments with Mobile Money API and Mojaloop                                                                              |
+| S.No   | Title                                                                              | Business Value                                                                                                               |
+| ---- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1 | Forensic Logging, Secure auditing                                                 | ( Part-1 Design, PoC): The topic itself will span 2 PIs as its significant, the first part will involve design and limited implementation as PoC or on selected core services (the second PI will standardize and implement it across all of Mojaloop Core) |
+| 2 | Code quality and Security                                                          | Additional development to ensure Mojaloop is of high quality with robust security practices                                  |
+| 3 | Cross Network / Currency (CNP/FXP)                                                 | Enhance Mojaloop to support cross-border and cross-network payments (payments from one country/currency/provider to another) |
+| 4 | Fraud Management                                                                   | Introduce a framework technology to help with the management and prevention of fraud within the system                       |
+| 5 | Leadership & Community Management | Provide guidance, governance and support for the development of tools, hack-a-thons and communication to community members   |
+| 6 | LPS Adapter Enhancements                            | Develop future pilots and/or use cases for the Legacy Payments System (LPS) , ATM, Point of Sale (PoS), etc..                                                                                                                            |
+| 7 | Payment Initiation Service Provider (PISP) Stream                                  |                                                                                                                              |
+| 8 | Payments Hub (MIFOS)                                                               |                                                                                                                              |
+| 9 | Performance: PoC learnings implementation           | Depending on the outputs of the Perf/Arch PoC stream which will be presented at the event, a decision needs to be made whether to refactor the core system as a whole or if several items can be cherry picked and used as enhancements to the current codebase. This will need to include various stakeholders’ inputs and take into consideration how it will impact production systems that are currently live (and how upgrades can/should be handled if we go ahead with this).                                           |
+| 10 | Ticketing system                                                                   | Develop a Proof of Concept                                                                                                   |
+| 11 | Portals for Onboarding & Managing DFSPs, etc                                            | Portal development improvements and documentation to ease the onboarding for new community members and/or DFSPs              |
+| 12 | Rules API | Generic rules processing as part of the core Mojaloop product. |
+| 13 | Settlement-v2                                                                      |                                                                                                                              |
+| 14 | Split Payment Capability (SNAPP)                                                   | Further development efforts and evangelize the split payments concept                                                        |
+| 15 | Standardize operations (Admin) API                                                 |                                                                                                                              |
+| 16 | Streamline Testing & QA                                                            |                                                                                                                              |
+| 17 | Testing toolkit for FSPs, Hubs                                                     |                                                                                                                              |
+| 18 | Versioning standards, version maintenance                                          | Provide standards for versioning Mojaloop releases, APIs; Provide enhancements to make it easier for Mojaloop consumers to upgrade to new versions of the platform                     |
+| 19 | Web Payments (Coil)                                                                | Web-payments with Mobile Money API and Mojaloop                                                                              |
+| 20 | GSMA Lab                                                                | Enhancements to the GSMA Lab                                                                              |
