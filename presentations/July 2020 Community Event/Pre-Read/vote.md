@@ -25,7 +25,7 @@
 | 13  | Leadership & Community Management                                                     | Provide guidance, governance and support for the development of tools, hack-a-thons and communication to community members   |
 | 14  | LPS Adapter Enhancements                                                              | Develop future pilots and/or use cases for the Legacy Payments System (LPS) , ATM, Point of Sale (PoS), etc.  |
 | 15  | Payment Initiation Service Providers (PISP)                                           | Provide a generic solution to allow 3rd Party Payment Initiation in Mojaloop. Un-bundle traditional banking business models, and allow new types of entities (PISPs) to build banking applications. |
-| 16  | Payments Hub (MIFOS)                                                                  |                          |
+| 16  | Payments Hub (MIFOS)                                                                  | Enhancements to the Payments Hub                         |
 | 17  | Settlement-v2                                                                         |  Building on the changes made to support Interchange Fees, Continuous Gross Settlement (CGS) - and will depend on the inputs, proposals made during the Settlements presentation.  |  
 | 18  | Testing toolkit for FSPs, Hubs                                                        |   Support wider adoption and enhance test coverage (for DFSPs, Hubs); provide support to transition existing postman collections |
 | 19  | Versioning standards, version maintenance                                             | Provide standards for versioning Mojaloop releases, APIs; Provide enhancements to make it easier for Mojaloop consumers to upgrade to new versions of the platform  |
