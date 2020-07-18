@@ -15,7 +15,7 @@
 | 3   | Ticketing system                                                                      | A proof of Concept for integration with a widely used ticketing system as reference implementation; this is to be integrated with events of interest at various levels of Operation, Administration (such as health of infrastructure, services or hitting thresholds / limits on NDC, etc)  |
 | 4   | Portals for Onboarding & Managing DFSPs, etc                                          | Portal development improvements and documentation to ease the onboarding for new community members and/or DFSPs              |
 | 5   | Rules API | Generic rules processing as part of the core Mojaloop product.            |
-| 6   | Split Payment Capability (SNAPP)                                                      | Further development efforts and evangelize the split payments concept  |
+| 6   | Split Payment Capability (SNAPP)                                                      | Enhance existing multi-part payments to support split payment functionality, further development efforts, and evangelize the split payments concept.  |
 | 7   | Standardize operations (Admin) API                                                    | Standardize the Onboarding and Operations API that is used to Onboard FSPs and manage various aspects such as Limits, Endpoints, Contacts, Thresholds, etc.  |
 | 8   | Streamline Testing & QA                                                               | Provide relability of testing processes by improving coverage on features, reliability of tests, documentation, cron jobs for regression testing and other QA features.  |
 | 9   | ISO 20022 adaptation  | Natively adapt to ISO 20022 to support World Bank initiatives |
