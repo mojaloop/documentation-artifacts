@@ -1,7 +1,7 @@
 # **PI 11 Mojaloop Community Event Agenda**
 July 20th - 24th 
 
-Please reivew some relevant links:
+Please review some relevant links:
 * Discourse: https://community.mojaloop.io
 * Slack self sign-up: http://mojaloop.io/slack
 * Register to participate: https://zoom.us/webinar/register/WN_2y_nO3WkTKa8vm236L3AKQ
