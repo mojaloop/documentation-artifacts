@@ -3,7 +3,7 @@
 ## Welcome to the PI-11 roadmap voting   
 - Please review the roadmap items below, before voting 
 - Each individual gets 3 votes
-- Items #1 to #9 are new items which will be prioritized based on the votes, whereas item#10 onwards are Streams that are ongoing and the Community can help prioritize the features or topics taken up by these streams.
+- Items #1 to #10 are new items which will be prioritized based on the votes, whereas item#11 onwards are Streams that are ongoing and the Community can help prioritize the features or topics taken up by these streams.
 - When you are ready to vote, go to PowerNoodle [HERE](https://app.powernoodle.com/PN/B234B12CCED3)
 - You can change your vote anytime up to **Friday the 24th at 12:30PM GMT**
 
