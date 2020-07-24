@@ -31,5 +31,5 @@
 | 18 | Testing toolkit for FSPs, Hubs                                                     |   Support wider adoption and enhance test coverage (for DFSPs, Hubs); provide support to transition existing postman collections |
 | 19 | Versioning standards, version maintenance                                          | Provide standards for versioning Mojaloop releases, APIs; Provide enhancements to make it easier for Mojaloop consumers to upgrade to new versions of the platform  |
 | 20 | Web Payments (Coil)  | Web-payments with Mobile Money API and Mojaloop  |
-| 21 | GSMA Lab  | Enhancements to the GSMA Lab  |
+| 21 | GSMA Interoperability Test Platform  | The platform now is live to anyone access and test DFSPs and third service providers. Anyone can contribute to add and maintain the platform, where new features and use cases can be added.  |
 | 22 | Extend Bulk transfer use case  | Extend Bulk transfers to support functionality such as "Bulk Lookup", and for the Switch to take up the responsibility for breaking up breaking an initial bulk into smaller ones based on Payee FSPs, so that it helps keep things simple for individual FSPs  |
