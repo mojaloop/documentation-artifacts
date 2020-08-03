@@ -44,14 +44,15 @@
 * Engage entrepreneurs and Fintech companies to identify their needs and develop measures to respond to them
 * Onboarding: Deploy and test new Dev Hub 
 
-## PDP
-1.	PI Objective #1: Support wider adoption of the testing toolkit by implementers. [Have two of the implementation teams use the toolkit by the end of the PI for Hub testing & Onboarding FSPs.]
-2.	PI Objective #2: Implement a hosted version of Testing Toolkit that can be securely hosted by Schemes easily. [Can be deployed using helm charts, and is well-documented]
+## PDP - Testing Toolkit
+* Support wider adoption of the testing toolkit by implementers. 
+[Have two of the implementation teams use the toolkit by the end of the PI for Hub testing & Onboarding FSPs.]
+* Implement a hosted version of Testing Toolkit that can be securely hosted by Schemes easily. 
+[Can be deployed using helm charts, and is well-documented]
+* (Stretch) Include a Reference OAuth Server in Helm Chart
 
 Measuring criteria:
-1.	[An FSP can login securely to a hosted testing toolkit solution and use it to test its Mojaloop implementation.]
-2.	[Secure means implementation of JWS, TLS and OAuth;]
-3.	[Well-documented means Deployment / usage instructions are made available]
-Stretch Objective #1.1: Implement a distributed architecture for the testing toolkit to support scalability
-3.	Stretch Objective #1.2: Include a Reference OAuth Server in Helm Chart
+1.	An FSP can login securely to a hosted testing toolkit solution and use it to test its Mojaloop implementation.
+2.	Secure means implementation of JWS, TLS and OAuth;
+3.	Well-documented means Deployment / usage instructions are made available
 
