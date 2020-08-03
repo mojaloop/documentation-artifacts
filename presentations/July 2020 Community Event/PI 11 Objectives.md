@@ -41,7 +41,7 @@
 * Restructure community governance committees: Community Leadership Comittee (CLC), Design Authority (DA), Change Control Board (CCB)
 * Develop a new community membership model
 * Review effectiveness of existing community workflows and revise where needed
-ngage entrepreneurs and Fintech companies to identify their needs and develop measures to respond to them
+* Engage entrepreneurs and Fintech companies to identify their needs and develop measures to respond to them
 * Onboarding: Deploy and test new Dev Hub 
 
 ## PDP
