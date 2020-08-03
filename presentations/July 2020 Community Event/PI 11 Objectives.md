@@ -44,10 +44,15 @@
 * Engage entrepreneurs and Fintech companies to identify their needs and develop measures to respond to them
 * Onboarding: Deploy and test new Dev Hub 
 
+## Versioning
+* Release a functional v1 of Mojaloop Operator
+* Migrate Mojaloop codebases to semantic versioning
+* Evangelize and Harmonize the Mojaloop Version
+
 ## PDP - Testing Toolkit
-* Support wider adoption of the testing toolkit by implementers. 
+* Support wider adoption of the testing toolkit by implementers
 [Have two of the implementation teams use the toolkit by the end of the PI for Hub testing & Onboarding FSPs.]
-* Implement a hosted version of Testing Toolkit that can be securely hosted by Schemes easily. 
+* Implement a hosted version of Testing Toolkit that can be securely hosted by Schemes easily
 [Can be deployed using helm charts, and is well-documented]
 * (Stretch) Include a Reference OAuth Server in Helm Chart
 
