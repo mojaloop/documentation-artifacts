@@ -49,6 +49,12 @@
 * Migrate Mojaloop codebases to semantic versioning
 * Evangelize and Harmonize the Mojaloop Version
 
+## Code Quality and Security
+* Improve data protection measures, introduce a central cryptographic function and improve tools and measures to support the OSS Community
+
+## DFSP Operational Controls
+* Align technical development of payments manager and payments hub workstreams
+
 ## PDP - Testing Toolkit
 * Support wider adoption of the testing toolkit by implementers
 [Have two of the implementation teams use the toolkit by the end of the PI for Hub testing & Onboarding FSPs.]
