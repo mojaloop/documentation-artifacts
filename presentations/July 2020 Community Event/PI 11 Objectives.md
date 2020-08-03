@@ -42,9 +42,7 @@
 * Develop a new community membership model
 * Review effectiveness of existing community workflows and revise where needed
 ngage entrepreneurs and Fintech companies to identify their needs and develop measures to respond to them
-
-## Onboarding
-* Deploy and test new Dev Hub 
+* Onboarding: Deploy and test new Dev Hub 
 
 ## PDP
 1.	PI Objective #1: Support wider adoption of the testing toolkit by implementers. [Have two of the implementation teams use the toolkit by the end of the PI for Hub testing & Onboarding FSPs.]
