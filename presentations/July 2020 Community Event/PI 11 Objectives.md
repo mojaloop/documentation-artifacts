@@ -37,8 +37,7 @@
 ## Extend Bulk Transfer
 * Design a PoC for advanced Bulk Payment Use Cases such as Bulk Lookup, Bulk Quote & Transfers for multiple Payee FSPs and present to the CCB
 
-## Le
-rship & Community Management
+## Leadership & Community Management
 * Restructure community governance committees: Community Leadership Comittee (CLC), Design Authority (DA), Change Control Board (CCB)
 * Develop a new community membership model
 * Review effectiveness of existing community workflows and revise where needed
