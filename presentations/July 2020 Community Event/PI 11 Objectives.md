@@ -46,10 +46,9 @@ PDP stream:
 
 ## Leadership & Community Management
 * Restructure community governance committees: Community Leadership Comittee (CLC), Design Authority (DA), Change Control Board (CCB)
-* Develop a new community membership mode
+* Develop a new community membership model
 * Review effectiveness of existing community workflows and revise where needed
 * Engage entrepreneurs and Fintech companies to identify their needs and develop measures to respond to them
 
 ## Onboarding
 * Deploy and test new Dev Hub 
-* 
