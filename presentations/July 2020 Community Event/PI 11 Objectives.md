@@ -6,7 +6,7 @@
 * Provide a visibility and monitoring tools (or their design)
 
 ## Settlement
-* Settlement V2 Complete
+* Final delivery of a flexible and configurable Settlement service for the Mojaloop platform.
 
 ## ISO 20022
 * POC to investigate what it would take and impact to scheme (cross network & native support)
@@ -32,7 +32,7 @@
 * Fully implemented Auth service
 
 ## Fraud Management
-* To drive the delivery of a fraud risk management solution to complement a Mojaloop platform implementation
+* Provide a set of documentation/tools/roadmaps for Mojaloop platform implementers to ensure they can implement the mandatory tasks required for fraud risk management at the Hub.
 
 ## Extend Bulk Transfer
 * Design a PoC for advanced Bulk Payment Use Cases such as Bulk Lookup, Bulk Quote & Transfers for multiple Payee FSPs and present to the CCB
