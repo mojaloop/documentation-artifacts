@@ -34,6 +34,13 @@
 ## Fraud Management
 * To drive the delivery of a fraud risk management solution to complement a Mojaloop platform implementation
 
+## Core
+PDP stream:
+1.	PI Objective #1: Support wider adoption of the testing toolkit by implementers. [Have two of the implementation teams use the toolkit by the end of the PI for Hub testing & Onboarding FSPs.]
+2.	PI Objective #2: Implement a hosted version of Testing Toolkit that can be securely hosted by Schemes easily. [Can be deployed using helm charts, and is well-documented]
+1.	Measuring criteria:
+
+
 ## Extend Bulk Transfer
 * Design a PoC for advanced Bulk Payment Use Cases such as Bulk Lookup, Bulk Quote & Transfers for multiple Payee FSPs and present to the CCB
 
