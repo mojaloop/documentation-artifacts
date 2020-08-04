@@ -16,7 +16,7 @@
 
 ## Streamline Testing & QA
 * Documentation in the form of sequence diagrams correlate with tests/assertions for the core services
-* Improvements in running regression tests (4 collections run up from 1); Streamline collections (API, Contract, etc)
+* Improvements in running regression tests (4 collections run up from 1); [Stretch] Streamline collections (API, Contract, etc)
 * Improve test coverage (include new features) - 1.5k to 3k tests
 
 ## Portals for Onboarding
