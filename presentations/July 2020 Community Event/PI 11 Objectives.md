@@ -14,10 +14,10 @@
 * Heart of Mojaloop whitepaper
 * Do we need to recommend additional messages for discovery and agreement stage (/party /quote) to the ISO 20022 RA (PTPG) ?
 
-## Streamline Testing & QA
-* Documentation in the form of sequence diagrams correlate with tests/assertions for the core services
-* Improvements in running regression tests (4 collections run up from 1); [Stretch] Streamline collections (API, Contract, etc)
-* Improve test coverage (include new features) - 1.5k to 3k tests
+## Streamline Designs with Testing & QA
+* Correlate and align tests/assertions with AS-IS documentation in the form of PlantUML sequence diagrams  for the Core services
+* Run GP regression tests using TTK on demand or as scheduled using Helm
+* Improve test coverage (include new features) - 1.5k to 3k tests [Stretch]
 
 ## Portals for Onboarding
 * Functional PoC to demo Technology Framework
@@ -35,7 +35,7 @@
 * Provide a set of documentation/tools/roadmaps for Mojaloop platform implementers to ensure they can implement the mandatory tasks required for fraud risk management at the Hub.
 
 ## Extend Bulk Transfer
-* Design a PoC for advanced Bulk Payment Use Cases such as Bulk Lookup, Bulk Quote & Transfers for multiple Payee FSPs and present to the CCB
+* PoC Designs for advanced Bulk Payment Use Cases such as Bulk Lookup, Bulk Quote & Transfers for multiple Payee FSPs and present to the CCB
 
 ## Leadership & Community Management
 * Restructure community governance committees: Community Leadership Comittee (CLC), Design Authority (DA), Change Control Board (CCB)
@@ -66,4 +66,7 @@ Measuring criteria:
 1.	An FSP can login securely to a hosted testing toolkit solution and use it to test its Mojaloop implementation.
 2.	Secure means implementation of JWS, TLS and OAuth;
 3.	Well-documented means Deployment / usage instructions are made available
+
+## General Mojaloop Core Maintenance
+* Support and general maintenance of ML OSS by making Helm releases, reviewing PRs, fixing priority bugs
 
