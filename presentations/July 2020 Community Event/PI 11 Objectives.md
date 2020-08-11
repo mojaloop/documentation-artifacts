@@ -9,10 +9,10 @@
 * Final delivery of a flexible and configurable Settlement service for the Mojaloop platform.
 
 ## ISO 20022
-* POC to investigate what it would take and impact to scheme (cross network & native support)
-* Which standard of ISO 20022 to adopt
-* Heart of Mojaloop whitepaper
-* Do we need to recommend additional messages for discovery and agreement stage (/party /quote) to the ISO 20022 RA (PTPG) ?
+* ISO 20022 POC for Native Mojaloop Support 
+* Cross Network ISO 20022 Support POC 
+* Workshop and Comparison of the 2 streams to document similarities and differences (towards the end of the PI)
+* Submit Draft Business Justification to ISO Standard Board to propose to extend the ISO standard to meet the Level One Objectives   
 
 ## Streamline Designs with Testing & QA
 * Correlate and align tests/assertions with AS-IS documentation in the form of PlantUML sequence diagrams  for the Core services
