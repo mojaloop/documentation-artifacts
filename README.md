@@ -10,6 +10,7 @@ _Note: large immutable documents are stored here in an effort to optimised the h
 
 ### OSS Community Convenings Sessions (Presentations and Notes)
 
+- [October 2020 (PI-12) OSS Community Session](./presentations/October%202020%20Community%20Event)
 - [July 2020 (PI-11) OSS Community Session](./presentations/July%202020%20Community%20Event)
 - [April 2020 (PI-10) OSS Community Session](./presentations/April%202020%20Community%20Event)
 - [January 2020 (Phase 4 Kickoff) OSS Community Session](./presentations/January%202020%20OSS%20Community%20Session)
