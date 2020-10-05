@@ -1,5 +1,5 @@
 # **PI 12 Mojaloop Community Event Agenda**
-October 12th - 16th
+October 19th - 23rd
 
 Please review some relevant links:
 * Discourse: https://community.mojaloop.io
