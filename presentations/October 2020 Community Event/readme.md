@@ -12,13 +12,19 @@ Please review some relevant links:
 
 ## Day One - Monday: October 19, 2020 - Introduction 
 
-| Time (UTC/GMT) | End     | Duration | Monday: October 19, 2020                               | Description and Links                                        | Track     | Speaker          |
-|----------------|---------|----------|--------------------------------------------------------|--------------------------------------------------------------|-----------|------------------|
-| 1:00 PM        | 1:10 PM | 00:10    | Welcome and Introduction                               |                                                              | Business  | Paula Hunter     |
-| 1:10 PM        | 2:50 PM | 01:40    | Introduction and Business Overview of L1P and Mojaloop | Level One Project Mojaloop Overview API Specification        | Business  | Michael Richards |
-| 2:50 PM        | 3:00 PM | 00:10    | Break                                                  |                                                              |           |                  |
-| 3:00 PM        | 4:00 PM | 01:20    | Mojaloop Technical Overview                            | Component Overview Mojaloop Technical Details & Installation | Technical | Miguel Debarros  |
-| 4:00 PM        |         |          | Done                                                   |                                                              |           |                  |
+| Time (UTC/GMT) | End     | Duration | Monday: October 19, 2020                  | Description and Links | Track     | Speaker          |
+|----------------|---------|----------|-------------------------------------------|-----------------------|-----------|------------------|
+| 1:00 PM        | 1:10 PM | 00:10    | Welcome and Introduction                  |                       | Business  | Paula Hunter     |
+| 1:10 PM        | 1:25 PM | 00:15    | Scene-setting                             |                       | Business  | Miller Abel      |
+| 1:25 PM        | 1:40 PM | 00:15    | Level One Principles                      |                       | Business  | Michael Richards |
+| 1:40 PM        | 1:50 PM | 00:10    | What Mojaloop is and what it isn't        |                       | Business  | Michael Richards |
+| 1:50 PM        | 2:10 PM | 00:20    | Major components of the Mojaloop switch   |                       | Technical | Miguel de Barros |
+| 2:10 PM        | 2:30 PM | 00:20    | Animated Mojaloop Demo                    |                       | Technical | Miguel de Barros |
+| 2:30 PM        | 2:50 PM | 00:20    | The Mojaloop API family                   |                       | Technical | Michael Richards |
+| 2:50 PM        | 3:00 PM | 00:10    | Break                                     |                       |           |                  |
+| 3:00 PM        | 3:30 PM | 00:30    | Anatomy of a transfer                     |                       | Technical | Michael Richards |
+| 3:30 PM        | 4:00 PM | 00:30    | Technical characteristics of the solution |                       | Technical | Miguel de Barros |
+| 4:00 PM        |         |          | Done                                      |                       |           |                  |
 
 ## Day Two - Tuesday: October 20, 2020 - Foundation, Advocacy and Business Updates
 
