@@ -1,3 +1,14 @@
+# ROADMAP VOTING 
+
+## Welcome to the PI-12 roadmap voting   
+- Please review the roadmap items below, before voting 
+- There will be 2 voting boards One for in progress workstreams and One for not started workstreams
+- Each individual gets 3 votes per board (these must be used on different items)
+- When you are ready to vote, go to PowerNoodle [Current Workstream Votes](https://app.powernoodle.com/TBD) [New Workstream Votes](https://app.powernoodle.com/TBD)
+- You can change your vote anytime up to **Friday the 23rd at 12:30PM GMT**
+
+## Roadmap Topics & Business Value
+
 | S.No | Work Stream                                                                         | Business Value                                                                                                                                                                                                                                                                     | Existing Workstrem |
 | ---- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | 1    | Bulk Extensions                                                                     | Extending Bulk transfers for future business cases                                                                                                                                                                                                                                 |                    |
