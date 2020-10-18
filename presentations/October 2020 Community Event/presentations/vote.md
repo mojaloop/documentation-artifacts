@@ -1,11 +1,19 @@
 ## Welcome to the PI-12 roadmap voting   
-- Please review the roadmap items below, before voting 
-- There will be 2 voting boards One for in progress workstreams and One for not started workstreams
-- Each individual gets 3 votes per board (these must be used on different items)
-- When you are ready to vote, go to PowerNoodle [Current Workstream Votes](https://app.powernoodle.com/TBD) [New Workstream Votes](https://app.powernoodle.com/TBD)
-- You can change your vote anytime up to **Friday the 23rd at 12:30PM GMT**
+* Please review the themeses, proposals and roadmap items below before voting 
+* There will be 3 voting boards:  [Voting Boards](https://app.powernoodle.com/TBD)
+  * One for themes (voting all week)
+  * One for roadmap work that is in progress (voting opens Friday)
+  * One for new proposals for the roadmap (voting opens Friday)
 
-## Roadmap Topics & Business Value
+## Roadmap Themes:
+- Product Readiness: Be Feature Complete for existing RFP responses for National Switch Procurement
+- Accelerate Business Onboarding: Help the non-tech ecosystem connect, engage and feed back to us better with technology demonstrators not slideware
+- Accelerate Development Onboarding: Remove Friction from joining the Tech Community ("Developer Relations")
+- Support Live Deployments: Live Deployment Customer Feedback; Remove friction & Cost for Live Deployments
+- Product Differentiation: Support work on  "what makes this different" from average switching software solution available today
+- Non-Functional Support: Non-Functionals Matter - improvements in DFSP Onboarding time, Cybersecurity & Performance as a Pillar
+
+## Roadmap Topics & Business Value 
 
 | S.No | Work Stream                                                                         | Business Value                                                                                                                                                                                                                                                                     | Existing Workstrem | Theme                 | Target Stakeholder       |
 |------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------------------|--------------------------|
