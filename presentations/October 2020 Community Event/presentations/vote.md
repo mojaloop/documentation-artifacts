@@ -1,9 +1,9 @@
 ## Welcome to the PI-12 roadmap voting   
-* Please review the themeses, proposals and roadmap items below before voting 
+* Please review the Themes and roadmap items below before voting 
 * There will be 3 voting boards:  [Voting Boards](https://app.powernoodle.com/TBD)
-  * One for themes (voting all week)
-  * One for roadmap work that is in progress (voting opens Friday)
-  * One for new proposals for the roadmap (voting opens Friday)
+  * One for Themes (voting all week)
+  * One for Roadmap work in progress (voting opens Friday)
+  * One for New Proposed Work for the Roadmap (voting opens Friday)
 
 ## Roadmap Themes:
 - **Product Readiness:** Be Feature Complete for existing RFP responses for National Switch Procurement
