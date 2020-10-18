@@ -1,6 +1,6 @@
 ## Welcome to the PI-12 Roadmap voting   
 * Please review the Themes and roadmap items below before voting 
-* There will be 3 voting boards:  [Voting Boards](https://app.powernoodle.com/TBD)
+* There will be 3 voting boards:  [Voting Boards](https://app.powernoodle.com/PN/E1022EE08)
   * One for Themes (voting all week)
   * One for Roadmap work in progress (voting opens Friday)
   * One for New Proposed Work for the Roadmap (voting opens Friday)
