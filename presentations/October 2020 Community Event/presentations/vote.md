@@ -6,12 +6,12 @@
   * One for new proposals for the roadmap (voting opens Friday)
 
 ## Roadmap Themes:
-- Product Readiness: Be Feature Complete for existing RFP responses for National Switch Procurement
-- Accelerate Business Onboarding: Help the non-tech ecosystem connect, engage and feed back to us better with technology demonstrators not slideware
-- Accelerate Development Onboarding: Remove Friction from joining the Tech Community ("Developer Relations")
-- Support Live Deployments: Live Deployment Customer Feedback; Remove friction & Cost for Live Deployments
-- Product Differentiation: Support work on  "what makes this different" from average switching software solution available today
-- Non-Functional Support: Non-Functionals Matter - improvements in DFSP Onboarding time, Cybersecurity & Performance as a Pillar
+- **Product Readiness:** Be Feature Complete for existing RFP responses for National Switch Procurement
+- **Accelerate Business Onboarding:** Help the non-tech ecosystem connect, engage and feed back to us better with technology demonstrators not slideware
+- **Accelerate Development Onboarding:** Remove Friction from joining the Tech Community ("Developer Relations")
+- **Support Live Deployments:** Live Deployment Customer Feedback; Remove friction & Cost for Live Deployments
+- **Product Differentiation:** Support work on  "what makes this different" from average switching software solution available today
+- **Non-Functional Support:** Non-Functionals Matter - improvements in DFSP Onboarding time, Cybersecurity & Performance as a Pillar
 
 ## Roadmap Topics & Business Value 
 
