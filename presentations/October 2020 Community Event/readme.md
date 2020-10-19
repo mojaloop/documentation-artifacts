@@ -15,13 +15,13 @@ Please review some relevant links:
 |----------------|---------  |----------|-------------------------------------------|-----------------------|-----------|------------------|
 | 1:00 PM        | 1:10 PM   | 00:10    | Welcome and Introduction                  | [Mojaloop Welcome](./presentations/Mojaloop%20Foundation%20PI12%20Opening.pdf)                      | Business  | Paula Hunter     |
 | 1:10 PM        | 1:25 PM   | 00:15    | Scene-setting                             |                       | Business  | Miller Abel      |
-| 1:25 PM        | 1:40 PM   | 00:15    | Level One Principles                      |                       | Business  | Michael Richards |
-| 1:40 PM        | 1:50 PM   | 00:10    | What Mojaloop is and what it isn't        |                       | Business  | Michael Richards |
+| 1:25 PM        | 1:40 PM   | 00:15    | Level One Principles                      | [Intro to LevelOne](./presentations/Introduction%20to%20Level%20One.pdf)                      | Business  | Michael Richards |
+| 1:40 PM        | 1:50 PM   | 00:10    | What Mojaloop is and what it isn't        | [What is Mojaloop](./presentations/What%20is%20Mojaloop.pdf)                      | Business  | Michael Richards |
 | 1:50 PM        | 2:10 PM   | 00:20    | Major components of the Mojaloop switch   |                       | Technical | Miguel de Barros |
 | 2:10 PM        | 2:30 PM   | 00:20    | Animated Mojaloop Demo                    |                       | Technical | Miguel de Barros |
-| 2:30 PM        | 2:50 PM   | 00:20    | The Mojaloop API family                   |                       | Technical | Michael Richards |
+| 2:30 PM        | 2:50 PM   | 00:20    | The Mojaloop API family                   | [Mojaloop APIs](./presentations/The%20Mojaloop%20API%20Family.pdf)                      | Technical | Michael Richards |
 | 2:50 PM        | 3:00 PM   | 00:10    | Break                                     |                       |           |                  |
-| 3:00 PM        | 3:30 PM   | 00:30    | Anatomy of a transfer                     |                       | Technical | Michael Richards |
+| 3:00 PM        | 3:30 PM   | 00:30    | Anatomy of a transfer                     | [Anatomy of a Transfer](./presentations/Anatomy%20of%20a%20Mojaloop%20transaction.pdf)                      | Technical | Michael Richards |
 | 3:30 PM        | 4:00 PM   | 00:30    | Technical characteristics of the solution |                       | Technical | Miguel de Barros |
 | 4:00 PM        |           |          | Done                                      |                       |           |                  |
 
