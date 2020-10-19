@@ -21,7 +21,7 @@ Please review some relevant links:
 | 2:10 PM        | 2:30 PM   | 00:20    | Animated Mojaloop Demo                    | [Technical overview](./presentations/Mojaloop_OSS-PI-11_October2020_technical-overview.pdf)                      | Technical | Miguel de Barros |
 | 2:30 PM        | 2:50 PM   | 00:20    | The Mojaloop API family                   | [Mojaloop APIs](./presentations/The%20Mojaloop%20API%20Family.pdf)<br><br>* [Q&A discussion thread](https://community.mojaloop.io/t/the-mojaloop-api-family/163)                      | Technical | Michael Richards |
 | 2:50 PM        | 3:00 PM   | 00:10    | Break                                     |                       |           |                  |
-| 3:00 PM        | 3:30 PM   | 00:30    | Anatomy of a transfer                     | [Anatomy of a Transfer](./presentations/Anatomy%20of%20a%20Mojaloop%20transaction.pdf)                      | Technical | Michael Richards |
+| 3:00 PM        | 3:30 PM   | 00:30    | Anatomy of a transfer                     | [Anatomy of a Transfer](./presentations/Anatomy%20of%20a%20Mojaloop%20transaction.pdf)<br><br>* [Q&A discussion thread](https://community.mojaloop.io/t/anatomy-of-a-transfer/164)                      | Technical | Michael Richards |
 | 3:30 PM        | 4:00 PM   | 00:30    | Technical characteristics of the solution | [Technical overview](./presentations/Mojaloop_OSS-PI-11_October2020_technical-overview.pdf)                      | Technical | Miguel de Barros |
 | 4:00 PM        |           |          | Done                                      |                       |           |                  |
 
