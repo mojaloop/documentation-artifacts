@@ -15,7 +15,7 @@ Please review some relevant links:
 |----------------|---------  |----------|-------------------------------------------|-----------------------|-----------|------------------|
 | 1:00 PM        | 1:10 PM   | 00:10    | Welcome and Introduction                  | [Mojaloop Welcome](./presentations/Mojaloop%20Foundation%20PI12%20Opening.pdf)                      | Business  | Paula Hunter     |
 | 1:10 PM        | 1:25 PM   | 00:15    | Scene-setting                             |                       | Business  | Miller Abel      |
-| 1:25 PM        | 1:40 PM   | 00:15    | Level One Principles                      | [Intro to LevelOne](./presentations/Introduction%20to%20Level%20One.pdf)                      | Business  | Michael Richards |
+| 1:25 PM        | 1:40 PM   | 00:15    | Level One Principles                      | [Intro to Level One](./presentations/Introduction%20to%20Level%20One.pdf)                      | Business  | Michael Richards |
 | 1:40 PM        | 1:50 PM   | 00:10    | What Mojaloop is and what it isn't        | [What is Mojaloop](./presentations/What%20is%20Mojaloop.pdf)                      | Business  | Michael Richards |
 | 1:50 PM        | 2:10 PM   | 00:20    | Major components of the Mojaloop switch   | [Technical overview](./presentations/Mojaloop_OSS-PI-11_October2020_technical-overview.pdf)                      | Technical | Miguel de Barros |
 | 2:10 PM        | 2:30 PM   | 00:20    | Animated Mojaloop Demo                    |                       | Technical | Miguel de Barros |
