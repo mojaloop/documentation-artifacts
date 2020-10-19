@@ -5,7 +5,7 @@ Please review some relevant links:
 * Discourse: https://community.mojaloop.io
 * Register to participate: https://mojaloop.io/pi-12-mojaloop-online-community-meeting/
 * Speaker prep [recording](https://zoom.us/rec/share/3Ox3EI31zU9LW6fd2h34VLJ-EJzGaaa8g3UX_PMFmR7n-NIHptOrBWwVDlYDKWXX) information and [template](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/July%202020%20Community%20Event/Presentations/July%20Convening%20PPT%20template.pptx)  
-* Presentation [decks](./Presentations) and recordings can be found by clicking on the presentation session.
+* Presentation [decks](./presentations) and recordings can be found by clicking on the presentation session.
 
 # Agenda
 
@@ -13,7 +13,7 @@ Please review some relevant links:
 
 | Time (UTC/GMT) | End       | Duration | Session Title                             | Description and Links | Track     | Speaker          |
 |----------------|---------  |----------|-------------------------------------------|-----------------------|-----------|------------------|
-| 1:00 PM        | 1:10 PM   | 00:10    | Welcome and Introduction                  |                       | Business  | Paula Hunter     |
+| 1:00 PM        | 1:10 PM   | 00:10    | Welcome and Introduction                  | [Mojaloop Welcome](./presentations/Mojaloop%20Foundation%20PI12%20Opening.pdf)                      | Business  | Paula Hunter     |
 | 1:10 PM        | 1:25 PM   | 00:15    | Scene-setting                             |                       | Business  | Miller Abel      |
 | 1:25 PM        | 1:40 PM   | 00:15    | Level One Principles                      |                       | Business  | Michael Richards |
 | 1:40 PM        | 1:50 PM   | 00:10    | What Mojaloop is and what it isn't        |                       | Business  | Michael Richards |
