@@ -13,7 +13,7 @@ Please review some relevant links:
 
 | Time (UTC/GMT) | End       | Duration | Session Title                             | Description and Links | Track     | Speaker          |
 |----------------|---------  |----------|-------------------------------------------|-----------------------|-----------|------------------|
-| 1:00 PM        | 1:10 PM   | 00:10    | Welcome and Introduction                  | [Mojaloop Welcome](./presentations/Mojaloop%20Foundation%20PI12%20Opening.pdf)                      | Business  | Paula Hunter     |
+| 1:00 PM        | 1:10 PM   | 00:10    | Welcome and Introduction                  | [Mojaloop Welcome](./presentations/Mojaloop%20Foundation%20PI12%20Opening.pdf)*[recording](https://youtu.be/ZiSG3DOE-nM)*                      | Business  | Paula Hunter     |
 | 1:10 PM        | 1:25 PM   | 00:15    | Scene-setting                             |                       | Business  | Miller Abel      |
 | 1:25 PM        | 1:40 PM   | 00:15    | Level One Principles                      | [Intro to Level One](./presentations/Introduction%20to%20Level%20One.pdf)<br><br>* [Q&A discussion thread](https://community.mojaloop.io/t/introduction-to-level-one-principles/160)                      | Business  | Michael Richards |
 | 1:40 PM        | 1:50 PM   | 00:10    | What Mojaloop is and what it isn't        | [What is Mojaloop](./presentations/What%20is%20Mojaloop.pdf)<br><br>* [Q&A discussion thread](https://community.mojaloop.io/t/what-mojaloop-is-and-what-it-isnt/161)                      | Business  | Michael Richards |
