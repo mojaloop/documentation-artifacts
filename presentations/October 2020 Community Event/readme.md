@@ -83,6 +83,5 @@ Please review some relevant links:
 | 12:00 PM       | 12:30 PM | 00:30    | Roadmap Voting and Break                 |                                                                       |           |                                 |
 | 12:30 PM       | 1:15 PM  | 00:45    | Workstream Discussions - Part One           | Individual workstream discussions                                     | Community |                                 |
 | 1:15 PM       | 2:00 PM  | 00:45    | Workstream Discussions - Part Two          | Individual workstream discussions                                     | Community |                                 |
-| 2:00 PM        | 3:00 PM  | 01:00    | Workstream Report outs & Closing | Individual workstreams present board and objectives <br>* [Miro Board](https://miro.com/welcomeonboard/mSPA1ErxU5JZiqOM7jrhqRswuMfwrvMPw72ciUZhoZ12yuN8aciWRjvD8YFaOsHI 
-)                   | Community | Kim Walters                     |
+| 2:00 PM        | 3:00 PM  | 01:00    | Workstream Report outs & Closing | Individual workstreams present board and objectives <br>* [Miro Board](https://miro.com/welcomeonboard/mSPA1ErxU5JZiqOM7jrhqRswuMfwrvMPw72ciUZhoZ12yuN8aciWRjvD8YFaOsHI)                   | Community | Kim Walters                     |
 | 3:00 PM        |          |          | Done                             |                                                                       |           |                                 |
