@@ -43,10 +43,24 @@
 •	Facilitate input on 3p use cases.
  
 # Other Workstreams – Objective TBD
+##	PDP/Testing toolkit: 
+•	Reach parity with Postman end-to-end test coverage for validating Switch, FSP implementations (for TTK), so Schemes can be confident of adoption; Measuring criteria:Hub test suites provide testUcoverage as much as the PM MojaSim test collection. Separate FSP test suites for validating FSP implementations
+
+•	Support Schemes’ adoption of TTK; Measuring criteria: Support Mowali Scheme [or one scheme]
+
+•	Providing enhancements for TechOps teams of Schemes; sage / UI enhancements based on community feedback;Sequence diagrams for default tests (based on event framework)
+
+•	Automate steps for onboarding any new API [Stretch]
+
+## Core:
+•	Will include "Implement Cascading Timeouts " for Switch [Objectives will be same as the work-stream]
+
+•	Maintenance: Provide design, PR reviews, critical fixes, Helm releases and general technical oversight for contributions to core services
+
 ##	Versioning: 
 ##	Code quality/security:
 ##	Fraud Management: 
-##	PDP/Testing toolkit: 
+
 ##	Leadership and Community mgmt.: 
 ##	Settlement V2:
 ##	LPS Adapter:
