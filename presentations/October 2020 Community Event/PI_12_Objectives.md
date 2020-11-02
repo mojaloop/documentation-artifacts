@@ -101,6 +101,8 @@
 ##	Leadership and Community mgmt.: (Simeon)
 
 •	Governance: Conduct elections for Design Authority and Community Council and reconstitute Community Governance Committees
+
 •	Metrics: Define and operationalize Growth and Egagement Indexes
+
 •	Community Strategy: Establish OSS Contribution Cycle Tracker
  
