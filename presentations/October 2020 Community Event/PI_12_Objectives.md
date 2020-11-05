@@ -81,16 +81,16 @@
 
 •	Improve access control measures
 
-## LPS Adaptor
+## LPS Adaptor: (Renjith/Adrian)
 •	Get some implementation experience from Umoja and TIPS (at least open a dialogue about requirements and understand how the adaptor would suit theirs)
 
 •	Add support for 3rd party APIs (i.e. initiate ATM and POS via the 3rd party APIs)
 
 •	Update TTK integration to use the 3rd party APIs
 
-## Web Payments
+## Web Payments (Don/Adrian)
 
-•	Find a home for all testing/demo tools including our Web-based wallet and ATM and POS simulators
+•	Find a adopter/home for all testing/demo tools including our Web-based wallet and ATM and POS simulators
 
 ##	Settlement V2/Cross-Currency: (Michael)
 •	Determine a pilot for potential implementation and feedback
