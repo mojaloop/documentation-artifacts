@@ -96,7 +96,7 @@
 •	Determine a pilot for potential implementation and feedback
 
 ##	Fraud Management: (Justus)
-•	TBD
+•	Demonstrate the feasibility of a Mojaloop Fraud Risk Management solution using only open source components
 
 ##	Leadership and Community mgmt.: (Simeon)
 
