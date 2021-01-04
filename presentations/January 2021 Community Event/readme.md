@@ -70,7 +70,7 @@ Draft Agenda:
 
 | Time Start (UTC) | Time End (UTC) | Duration   | Activity                               | Presentation Description                                      | Track     | Speaker(s) Name | Other Speakers Name(s) |
 |------------------|----------------|------------|----------------------------------------|---------------------------------------------------------------|-----------|-----------------|------------------------|
-| 11:00 AM         | 12:00 PM       | 60 minutes | Mojaloop Theme & Roadmap Presentations | Review themes and roadmap proposals that align to each theme  | Community |                 |                        |
+| 11:00 AM         | 12:00 PM       | 60 minutes | Mojaloop Roadmap Presentations | Review roadmap proposals that align to each theme  | Community |                 |                        |
 | 12:00 PM         | 12:30 PM       | 30 minutes | Roadmap Voting and Break               |                                                               | Community |                 |                        |
 | 12:30 PM         | 1:15 PM        | 45 minutes | Workstream Discussions - Part One      | Individual workstream discussions                             | Community |                 |                        |
 | 1:15 PM          | 2:00 PM        | 45 minutes | Workstream Discussions - Part Two      | Individual workstream discussions                             | Community |                 |                        |
