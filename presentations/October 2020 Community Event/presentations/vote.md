@@ -1,10 +1,3 @@
-## Welcome to the PI-12 Roadmap voting   
-* Please review the Themes and roadmap items below before voting 
-* There will be 3 voting boards:  [Voting Boards](https://app.powernoodle.com/PN/E1022EE08224)
-  * One for Themes (voting all week)
-  * One for Roadmap work in progress (voting opens Friday)
-  * One for New Proposed Work for the Roadmap (voting opens Friday)
-
 ## Roadmap Themes:
 - **Product Readiness:** Be Feature Complete for existing RFP responses for National Switch Procurement
 - **Accelerate Engagement with the Value Proposition:** Help the non-tech ecosystem connect, engage and feed back to us better with technology demonstrators not slideware
