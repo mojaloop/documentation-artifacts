@@ -4,7 +4,7 @@ Please review some relevant links:
 
 * Discourse: https://community.mojaloop.io
 * Register to participate: https://mojaloop.io/pi-13-mojaloop-online-community-meeting/
-* Speaker prep [template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop%20Convening%20PPT%20Template.pptx) and Mojaloop [Zoom Background]()  
+* Speaker presentation [template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop%20Convening%20PPT%20Template.pptx) and Mojaloop [Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop%20Zoom%20Background.png)  
 * Presentation [decks](./presentations) and recordings can be found by clicking on the presentation session.
 
 # Agenda:
