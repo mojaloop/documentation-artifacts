@@ -81,6 +81,5 @@ End of Day Four
 |------------------|----------------|------------|----------------------------------------|---------------------------------------------------------------|-----------|--------|-----------------|
 | 11:00 AM         | 12:00 PM       | 60 minutes | Mojaloop Theme & Roadmap Presentations | Review themes and roadmap proposals that align to each theme  | Community |        |                 |
 | 12:00 PM         | 12:30 PM       | 30 minutes | Roadmap Voting and Break               |                                                               | Community |        |                 |
-| 12:30 PM         | 1:15 PM        | 45 minutes | Workstream Discussions - Part One      | Individual workstream discussions                             | Community |        |                 |
-| 1:15 PM          | 2:00 PM        | 45 minutes | Workstream Discussions - Part Two      | Individual workstream discussions                             | Community |        |                 |
+| 12:30 PM         | 2:00 PM        | 90 minutes | Workstream Discussions       | Individual workstream discussions                             | Community |        |                 |
 | 2:00 PM          | 3:00 PM        | 60 minutes | Workstream Report outs & Closing       | Individual workstreams present board and objectives           | Community |        |                 |
