@@ -5,7 +5,7 @@
 - **Support Live Deployments:** Live Deployment Customer Feedback; Remove friction & Cost for Live Deployments
 - **Product Differentiation:** Support work on  "what makes this different" from average switching software solution available today
 - **Non-Functional Support:** Non-Functionals Matter - improvements in DFSP Onboarding time, Cybersecurity & Performance as a Pillar
-
+<!-- 
 ## Roadmap Topics & Business Value (In process workstreams)
 
 | S.No | Work Stream                                                                         | Business Value                                                                                                                                                                                                                                                                     | Existing Workstream? | Theme                 |
@@ -48,4 +48,4 @@
 | 31   | Generic Third party access                                                          | Integration of 3rd parties into Mojaloop Schemes, Functionality available, API Support                                                                                                                                                                                             |                    | Product Differentiation     | DFSP Participants        |
 | 32   |  Darapay: A mobile virtual bank payment platform                                                          | To provision an interoperable and inclusive digital payment solution to accelerate access to financial services and enable the unbanked to get ahead.                                                                                                                                                                                              |                    | Product Differentiation     | DFSP Participants        |
 | 33   |  Stand-in Processing                                                         | Implement stand-in capabilities as part of Payment Hub EE to synchronize incoming/outgoing tranactions to enable participation of institutions without 24/7 core banking systems to participate in Mojaloop |                    | Support Live Deployments    | DFSP Participants        |
-
+ -->
