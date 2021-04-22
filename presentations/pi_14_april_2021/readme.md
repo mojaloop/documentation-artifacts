@@ -49,8 +49,8 @@ __Thursday: April 29, 2021__
 | Time Start (UTC) | Time End (UTC) | Duration   | Activity                                                          |
 |------------------|----------------|------------|-------------------------------------------------------------------|
 | 11:00 AM         | 12:00 AM       | 60 minutes | [Mojaloop Theme & Roadmap Presentations](https://mojaloopcommunitymeeting.us2.pathable.com/meetings/virtual/FRFwrrgeGqtRBQAFE) |
-| 12:00 PM         | 12:45 PM       | 45 minutes | [Workstream Discussions - Part One](https://mojaloopcommunitymeeting.us2.pathable.com/meetings/3ourSPEZTMiWYtaxg#/?limit=10&sortByFields[0]=isPinned&sortByFields[1]=lastActivityAt&sortByOrders[0]=-1&sortByOrders[1]=-1&uid=rABQCAACMuxxxi7dK)|
-| 12:45 PM         |  1:30 PM       | 45 minutes | [Workstream Discussions - Part Two](https://mojaloopcommunitymeeting.us2.pathable.com/meetings/kkWhYmqxLAhJdaqz9#/?limit=10&sortByFields[0]=isPinned&sortByFields[1]=lastActivityAt&sortByOrders[0]=-1&sortByOrders[1]=-1&uid=rABQCAACMuxxxi7dK)|
-|  1:40 PM         |  3:00 PM       | 80 minutes | [Workstream Report-outs, Voting and Closing](https://mojaloopcommunitymeeting.us2.pathable.com/meetings/virtual/dGQouiuMigZep7BRX)|
+| 12:00 PM         | 12:15 PM       | 15 minutes | [Voting](https://mojaloopcommunitymeeting.us2.pathable.com/meetings/3ourSPEZTMiWYtaxg#/?limit=10&sortByFields[0]=isPinned&sortByFields[1]=lastActivityAt&sortByOrders[0]=-1&sortByOrders[1]=-1&uid=rABQCAACMuxxxi7dK)|
+| 12:15 PM         |  1:45 PM       | 90 minutes | [Workstream Discussions](https://mojaloopcommunitymeeting.us2.pathable.com/meetings/kkWhYmqxLAhJdaqz9#/?limit=10&sortByFields[0]=isPinned&sortByFields[1]=lastActivityAt&sortByOrders[0]=-1&sortByOrders[1]=-1&uid=rABQCAACMuxxxi7dK)|
+|  1:45 PM         |  3:00 PM       | 80 minutes | [Workstream Report-outs, Voting and Closing](https://mojaloopcommunitymeeting.us2.pathable.com/meetings/virtual/dGQouiuMigZep7BRX)|
 
 End of Day Three
