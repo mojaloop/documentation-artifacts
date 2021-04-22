@@ -5,7 +5,7 @@
 * Pathable: https://mojaloopcommunitymeeting.us2.pathable.com/
 * Discourse: https://community.mojaloop.io
 * Register to participate: https://mojaloop.io/pi-14-oss-online-community-meeting-technical-sessions/
-* Speaker [PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop%20Community%20Meeting%20PPT%20Template.pptx) and Mojaloop [Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop%20Zoom%20Background.png)  
+* Speaker [PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop%20Community%20Meeting%20PPT%20Template.pptx) and Mojaloop [Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop-CM-Zoom-Background.png)  
 * Presentations and recordings can be found by clicking on the session link, or browsing Pathable.
 
 ## Agenda:
