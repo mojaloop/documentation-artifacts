@@ -2,7 +2,7 @@
 ## April 27th - 29th 
 
 ### Handy Links:
-* Pathable: https://mojaloopcommunitymeeting.us2.pathable.com/
+* Pathable: https://mojaloopcommunitymeeting.us2.pathable.com/  (NOTE: you will need your personalized link to join the session)
 * Discourse: https://community.mojaloop.io
 * Register to participate: https://mojaloop.io/pi-14-oss-online-community-meeting-technical-sessions/
 * Speaker [PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop%20Community%20Meeting%20PPT%20Template.pptx) and Mojaloop [Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/January%202021%20Community%20Event/presentations/Mojaloop-CM-Zoom-Background.png)  
