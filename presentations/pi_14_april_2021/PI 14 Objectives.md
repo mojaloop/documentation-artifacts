@@ -19,7 +19,7 @@
 - Agreed implementation architecture
 - Build all the breaking changes starting this PI, to release a beta w/ the final structure ASAP
 - Build plan for next PI
-- https://docs.google.com/presentation/d/1S77AYMUFccn6GC11gyIfjNT3sWW8IjlCZ3EVaJ9K8xw/edit#slide=id.gd5e4b5e3c7_0_2
+- https://docs.google.com/presentation/d/1oZz8wwKVKK4dGSP-9yjMrMKBJovowBFndA7UOXToRkM/edit#slide=id.gd35b442fa0_0_664
 
 ## Code Quality and Security 
 
