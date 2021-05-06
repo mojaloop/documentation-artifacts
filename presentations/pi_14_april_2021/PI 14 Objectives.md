@@ -24,6 +24,8 @@
 ## Code Quality and Security 
 
 ## Core Team
+- Release Mojaloop helm v12.1.0
+- Implementat one of “separating external helm charts from Mojaloop”, “Reliable notifications” features
 
 ## Fraud
 
@@ -32,5 +34,7 @@
 ## Bulk/Merchant Payments
 
 ## TTK
+- Publish a beta version of Mojaloop Training Program (MTP) Testing Toolkit (TTK) course module in collaboration with MTP team
+- Support adoption of TTK and implement enhancements in runtime, test coverage and general maintenance.
 
 ## Community
