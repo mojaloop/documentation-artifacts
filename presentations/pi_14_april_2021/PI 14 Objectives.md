@@ -14,7 +14,7 @@
 - Demonstration UX that includes login & role based used creation mgmt
 - https://docs.google.com/spreadsheets/d/1wJynu57p0ZuQWkx6QI-utMCRHPbJ-KyXp-ywHzUQjBo/edit?usp=sharing
 
-## Refence Architecture
+## Reference Architecture
 - Agreed reference architecture
 - Agreed implementation architecture
 - Build all the breaking changes starting this PI, to release a beta w/ the final structure ASAP
