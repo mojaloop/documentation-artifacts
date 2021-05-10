@@ -30,6 +30,8 @@
 ## Fraud
 
 ## Documentation and Sandbox
+- Clean up existing documentation
+- Restructure docs in preparation for new docs tooling
 
 ## Bulk/Merchant Payments
 
