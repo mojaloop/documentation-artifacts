@@ -34,6 +34,16 @@
 - Restructure docs in preparation for new docs tooling
 
 ## Bulk/Merchant Payments
+Bulk Payments:
+- Carry out tech investigations to determine best architectural approach 
+- Develop stories for the revised architecture, document API changes
+- Community support for the revisions
+
+Merchant Payments:
+- Develop stories for QR Processor, Merchant Registry and QR Repository
+- Define QR Code schema
+- Define strategy for QR Code signing and/or encryption, including setting out DFSP responsibilities
+- Define integration strategy across Mojaloop and the QR components
 
 ## TTK
 - Publish a beta version of Mojaloop Training Program (MTP) Testing Toolkit (TTK) course module in collaboration with MTP team
