@@ -28,6 +28,13 @@
 - Implementat one of “separating external helm charts from Mojaloop”, “Reliable notifications” features
 
 ## Fraud
+- Implement a Mojaloop Payment Platform Adapter
+- Finalise the Actio Transaction Monitoring Service API
+- ISO20022-compliant ingress and egress messaging, data-flow and storage
+- Implement a data privacy approach focussed on consent management
+- Implement reference data collection and storage for data enrichment and transaction evaluation
+- Ongoing transaction monitoring typology and rule analysis
+- Finalise platform security
 
 ## Documentation and Sandbox
 - Clean up existing documentation
