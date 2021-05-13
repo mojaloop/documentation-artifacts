@@ -31,7 +31,7 @@
 
 ## Core Team
 - Release Mojaloop helm v12.1.0
-- Implementat one of “separating external helm charts from Mojaloop”, “Reliable notifications” features
+- Implement one of “separating external helm charts from Mojaloop”, “Reliable notifications” features
 
 ## Fraud
 - Implement a Mojaloop Payment Platform Adapter
@@ -46,8 +46,7 @@
 - Clean up existing documentation
 - Restructure docs in preparation for new docs tooling
 
-## Bulk/Merchant Payments
-Bulk Payments:
+## Bulk Payments Extensions
 - Carry out tech investigations to determine best architectural approach 
 - Develop stories for the revised architecture, document API changes
 - Community support for the revisions
