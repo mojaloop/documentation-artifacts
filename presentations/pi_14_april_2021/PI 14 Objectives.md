@@ -21,11 +21,12 @@
 - Build plan for next PI
 - https://docs.google.com/presentation/d/1oZz8wwKVKK4dGSP-9yjMrMKBJovowBFndA7UOXToRkM/edit#slide=id.gd35b442fa0_0_664
 
-## Code Quality and Security - DevSecOps Enhancements and Maintenance
+## Platform Quality and Security
+- DevSecOps Enhancements and Maintenance
 - Support Implementation teams (Mainly Mowali)
 - Platform Hardening and Standard Baselining
 - Implement a cryptographic processing module (CPM)
-- PQS Support to Mojaloop 2.0 Reference Architecture 
+- PQS Support to Mojaloop 2.0 Reference Architecture
 - Perform security controls review on the FRM-Mojaloop Integration Design
 
 ## Core Team
@@ -51,7 +52,7 @@ Bulk Payments:
 - Develop stories for the revised architecture, document API changes
 - Community support for the revisions
 
-Merchant Payments:
+## Merchant Payments:
 - Develop stories for QR Processor, Merchant Registry and QR Repository
 - Define QR Code schema
 - Define strategy for QR Code signing and/or encryption, including setting out DFSP responsibilities
