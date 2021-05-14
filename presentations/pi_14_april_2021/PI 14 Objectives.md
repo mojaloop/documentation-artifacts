@@ -11,8 +11,16 @@
 
 ## Business Operations Framework
 - Develop an Operator and audit tracking and reporting framework
-- Demonstration UX that includes login & role based used creation mgmt
-- https://docs.google.com/spreadsheets/d/1wJynu57p0ZuQWkx6QI-utMCRHPbJ-KyXp-ywHzUQjBo/edit?usp=sharing
+- IAAM using Ory.sh
+- RBAC
+- Maker/Checker via synthetic roles
+- Demonstration UX that includes login & role based user creation mgmt.
+- Framework for serverless UX, including guidelines for community adoption
+- Experience APIs and Demo UX for MVP in following business process areas:
+- Participant Lifecycle Management
+- Liquidity Monitoring and Management
+- Settlement Management
+- link to google doc: https://docs.google.com/spreadsheets/d/1wJynu57p0ZuQWkx6QI-utMCRHPbJ-KyXp-ywHzUQjBo/edit?usp=sharing
 
 ## Refence Architecture
 - Agreed reference architecture
