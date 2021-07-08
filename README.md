@@ -10,6 +10,7 @@ _Note: large immutable documents are stored here in an effort to optimised the h
 
 ### OSS Community Convenings Sessions (Presentations and Notes)
 
+- [July 2021 (PI-15) OSS Community Session](./presentations/pi_15_july_2021)
 - [April 2021 (PI-14) OSS Community Session](./presentations/pi_14_april_2021)
 - [January 2021 (Phase-5 kickoff / PI-13) OSS Community Session](./presentations/January%202021%20Community%20Event)
 - [October 2020 (PI-12) OSS Community Session](./presentations/October%202020%20Community%20Event)
@@ -19,5 +20,5 @@ _Note: large immutable documents are stored here in an effort to optimised the h
 - [September 2019 PI-8 (Phase 3 Wrap-up) OSS Community Session](./presentations/September%202019%20PI-8_OSS_community%20session)
 - [June 2019 PI-7 OSS Community Session](./presentations/June%202019%20PI-7_OSS_community%20session)
 - [April 2019 PI-6_OSS Community Session](./presentations/April%202019%20PI-6_OSS_community%20session/)
-- [January 2010 PI-5 OSS Community Session](./presentations/January%202019)
+- [January 2019 PI-5 OSS Community Session](./presentations/January%202019)
 
