@@ -46,8 +46,7 @@ __Thursday: July 29, 2021__
 | Time Start (UTC) | Time End (UTC) | Duration   | Activity                                                          |
 |------------------|----------------|------------|-------------------------------------------------------------------|
 | 11:00 AM         | 12:00 AM       | 60 minutes | Roadmap Presentations |
-| 12:00 PM         | 12:15 PM       | 15 minutes | Workstream Voting |
-| 12:15 PM         |  1:45 PM       | 90 minutes | Workstream Breakouts |
-|  1:45 PM         |  3:00 PM       | 80 minutes | Workstream Report-out, Voting and Closing |
+| 12:00 PM         |  1:30 PM       | 90 minutes | Workstream Breakouts |
+|  1:30 PM         |  3:00 PM       | 90 minutes | Workstream Report-out, Voting and Closing |
 
 End of Day Three
