@@ -18,13 +18,13 @@ __Tuesday, October 26, 2021__
 | ----------- | --------- | ---------- | ----- | ----- | ---------- |
 | 11:00 AM | 11:50 AM | 50 mins | Core Clearing System | Reference Architecture v1.0 | Pedro Barreto |
 | 11:50 AM | 12:00 PM | 10 mins | **Break** |  |  |
-| 12:00 AM | 12:50 PM | 50 mins | Core Clearing System | Reference Architecture v1.0 | Paul Baker, Sam Kummary |
+| 12:00 AM | 12:50 PM | 50 mins | Core Clearing System | Business Operations Framework | Paul Baker |
 | 12:50 PM | 01:00 PM | 10 mins | **Break** |  |  |
-| 01:00 PM | 01:50 PM | 50 mins | Supporting Workstreams | Core Team | Sam Kummary |
+| 01:00 PM | 01:50 PM | 50 mins | Supporting Workstreams | Core Team | Sam Kummary, David Fry, Lewis Daly, Miguel De Barros, Tom Daly |
 | 01:50 PM | 02:00 PM | 10 mins | **Break** |  |  |
 | 02:00 PM | 02:50 PM | 50 mins | Supporting Workstreams | Platform Quality and Security | Godfrey Kutumela |
 | 02:50 PM | 03:00 PM | 10 mins | **Break** |  |  |
-| 03:00 PM | 03:50 PM | 50 mins | Core Clearing System Extensions | Testing Toolkit & Payment Manager Updates | Sam Kummary |
+| 03:00 PM | 03:50 PM | 50 mins | Core Clearing System Extensions | Testing Toolkit & Payment Manager Updates | Sam Kummary, Vijaya Kumar Guthi, Georgi Logodazhki, Juan Correa |
 | 03:50 PM | 04:00 PM | 10 mins | **Break** |  |  |
 | 04:00 PM | 04:30 PM | 30 mins | | _Open discussions_ | |
 
