@@ -16,13 +16,13 @@ __Tuesday, October 26, 2021__
 
 | Start (UTC) | End (UTC) | Duration   | Topic | Title | Speaker(s) |
 | ----------- | --------- | ---------- | ----- | ----- | ---------- |
-| 11:00 AM | 11:50 AM | 50 mins | Core Clearing System | Reference Architecture v1.0 | Pedro Barreto |
+| 11:00 AM | 11:50 AM | 50 mins | Community | Welcome, Introduction & Community Update | Simeon Oriko |
 | 11:50 AM | 12:00 PM | 10 mins | **Break** |  |  |
-| 12:00 AM | 12:50 PM | 50 mins | Core Clearing System | Business Operations Framework | Kevin Leyow, Paul Baker, Vijay Guthi |
-| 12:50 PM | 01:00 PM | 10 mins | **Break** |  |  |
-| 01:00 PM | 01:50 PM | 50 mins | Core Clearing System | Mojaloop Releases and Core Maintenance</br> - [Slides](presentations/Mojaloop_OSS_Core_PI16-Oct2021.pdf)	| Sam Kummary, David Fry, Lewis Daly, Miguel De Barros, Tom Daly |
-| 01:50 PM | 02:00 PM | 10 mins | **Break** |  |  |
-| 02:00 PM | 02:50 PM | 50 mins | Supporting Workstreams | Platform Quality and Security | Godfrey Kutumela |
+| 12:00 PM | 12:50 AM | 50 mins | Core Clearing System | Reference Architecture v1.0 | Michael Wagener, Miguel de Barros, Pedro Barreto |
+| 12:50 AM | 1:00 PM | 10 mins | **Break** |  |  |
+| 1:00 PM | 1:50 PM | 50 mins | Supporting work-streams | Business Operations Framework | Kevin Leyow, Paul Baker, Vijay Guthi |
+| 1:50 PM | 02:00 PM | 10 mins | **Break** |  |  |
+| 02:00 PM | 02:50 PM | 50 mins | Core Clearing System | Mojaloop Releases and Core Maintenance</br> - [Slides](presentations/Mojaloop_OSS_Core_PI16-Oct2021.pdf)	| Sam Kummary, David Fry, Lewis Daly, Miguel De Barros, Tom Daly |
 | 02:50 PM | 03:00 PM | 10 mins | **Break** |  |  |
 | 03:00 PM | 03:50 PM | 50 mins | Core Clearing System Extensions | Testing Toolkit & Payment Manager Updates</br> - [Slides](presentations/Mojaloop_TTK-and-PM_PI16_Oct2021.pdf) | Sam Kummary, Vijaya Kumar Guthi, Georgi Logodazhki, Juan Correa |
 | 03:50 PM | 04:00 PM | 10 mins | **Break** |  |  |
