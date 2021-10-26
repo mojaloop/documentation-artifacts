@@ -20,7 +20,7 @@ __Tuesday, October 26, 2021__
 | 11:50 AM | 12:00 PM | 10 mins | **Break** |  |  |
 | 12:00 AM | 12:50 PM | 50 mins | Core Clearing System | Business Operations Framework | Paul Baker |
 | 12:50 PM | 01:00 PM | 10 mins | **Break** |  |  |
-| 01:00 PM | 01:50 PM | 50 mins | Core Clearing System | Mojaloop Releases and Core Maintenance	| Sam Kummary, David Fry, Lewis Daly, Miguel De Barros, Tom Daly |
+| 01:00 PM | 01:50 PM | 50 mins | Core Clearing System | Mojaloop Releases and Core Maintenance</br> - [Slides](presentations/Mojaloop_OSS_Core_PI16-Oct2021.pdf)	| Sam Kummary, David Fry, Lewis Daly, Miguel De Barros, Tom Daly |
 | 01:50 PM | 02:00 PM | 10 mins | **Break** |  |  |
 | 02:00 PM | 02:50 PM | 50 mins | Supporting Workstreams | Platform Quality and Security | Godfrey Kutumela |
 | 02:50 PM | 03:00 PM | 10 mins | **Break** |  |  |
