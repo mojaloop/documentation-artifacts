@@ -38,7 +38,7 @@ __Wednesday, October 27, 2021__
 | ----------- | --------- | ---------- | ----- | ----- | ---------- |
 | 11:00 AM |	11:20 AM | 20 Mins |  Governance |	Governace update: Design Authority, Change Control Board, Community Council, Product Council |	Lewis Daly, Sam Kummary, Simeon Oriko |
 | 11:20 AM |	11:30 AM | 10 mins | **Break** | | | 		
-| 11:30 AM |	11:50 AM | 20 Mins |  Core Clearing System Extensions |	Overlay Services (3PPI Enablement) |	Lewis Daly, JJ Geewax |
+| 11:30 AM |	11:50 AM | 20 Mins |  Core Clearing System Extensions |	Overlay Services (3PPI Enablement) </br> - [Slides](presentations/pi_16_3ppi_pisp.pdf) |	Lewis Daly, JJ Geewax |
 | 11:50 AM |	12:00 PM | 10 mins | **Break** | | | 		
 | 12:00 PM |	12:50 PM | 50 Mins |  Core Clearing System Extensions |	Cross Network Support (FX) // Best Practice National RTP ISO20022 Messaging |	Michael Richards |
 | 12:50 PM |	1:00 PM  | 10 mins | **Break** | | | 		
@@ -46,7 +46,7 @@ __Wednesday, October 27, 2021__
 | 01:20 PM |	1:30 PM  | 10 mins | **Break** | | | 		
 | 01:30 PM |	1:50 PM  | 20 mins |  Supporting Workstreams |	Small Asks & Changes |	Michael Richards, Lesely-Ann Vaughan |
 | 01:50 PM |	2:00 PM  | 10 mins | **Break** | | | 		
-| 02:00 PM |	2:50 PM  | 50 mins |  Supporting Workstreams | Documentation, Onboarding and Sandbox |	Uduak Obong-Eren, Sam Kummary, Lewis Daly |
+| 02:00 PM |	2:50 PM  | 50 mins |  Supporting Workstreams | Documentation, Onboarding and Sandbox </br> - [Slides](presentations/pi_16_docs_onboarding_sandbox.pdf)|	Uduak Obong-Eren, Sam Kummary, Lewis Daly |
 | 02:50 PM |	3:00 PM  | 10 mins | **Break** | | | 		
 | 03:00 PM |	3:50 PM  | 50 mins |  Adjacent Marketplace Teams |	OSS FRMS Solution (“Actio”) |	Justus Ortlepp |
 | 03:50 PM |	4:00 PM  | 10 mins | **Break** | | | 		
