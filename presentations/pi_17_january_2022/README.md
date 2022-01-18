@@ -11,62 +11,47 @@
 
 ## Agenda:
 
-_Coming Soon!_
-
-<!-- 
-### Day One 
-__Tuesday, October 26, 2021__
-
-| Start (UTC) | End (UTC) | Duration   | Topic | Title | Speaker(s) |
-| ----------- | --------- | ---------- | ----- | ----- | ---------- |
-| 11:00 AM | 11:50 AM | 50 mins | Community | Welcome, Introduction & Community Update | Simeon Oriko |
-| 11:50 AM | 12:00 PM | 10 mins | **Break** |  |  |
-| 12:00 PM | 12:50 AM | 50 mins | Core Clearing System | Reference Architecture v1.0 | Michael Wagener, Miguel de Barros, Pedro Barreto |
-| 12:50 AM | 1:00 PM | 10 mins | **Break** |  |  |
-| 1:00 PM | 1:50 PM | 50 mins | Supporting work-streams | Business Operations Framework | Kevin Leyow, Paul Baker, Vijay Guthi |
-| 1:50 PM | 02:00 PM | 10 mins | **Break** |  |  |
-| 02:00 PM | 02:50 PM | 50 mins | Core Clearing System | Mojaloop Releases and Core Maintenance</br> - [Slides](presentations/Mojaloop_OSS_Core_PI16-Oct2021.pdf)	| Sam Kummary, David Fry, Lewis Daly, Miguel De Barros, Tom Daly |
-| 02:50 PM | 03:00 PM | 10 mins | **Break** |  |  |
-| 03:00 PM | 03:50 PM | 50 mins | Core Clearing System Extensions | Testing Toolkit & Payment Manager Updates</br> - [Slides](presentations/Mojaloop_TTK-and-PM_PI16_Oct2021.pdf) | Sam Kummary, Vijaya Kumar Guthi, Georgi Logodazhki, Juan Correa |
-| 03:50 PM | 04:00 PM | 10 mins | **Break** |  |  |
-| 04:00 PM | 04:30 PM | 30 mins | | _Open discussions_ | |
+### Day One
+__Tuesday, January 25, 2022__
 
 
-End of Day One
+| Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
+| ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
+| 11:00 AM 	       | 11:20 AM      	| 20 mins  | Community | Introduction + Community Update | Paula Hunter, Simeon Oriko |
+| 11:20 AM 	       | 12:20 PM      	| 60 mins  | Core Clearing System | Reference Architecture | Pedro Barreto |
+| 12:20 PM 	       | 1:00 PM      	| 40 mins  | Core Clearing System | Business Operations Framework | Paul Baker |
+| 1:00 PM 	       | 1:20 PM      	| 20 mins  | Break + Trivia Tournament | | | 	
+| 1:20 PM 	       | 1:40 PM      	| 20 mins  | Core Clearing System Extensions | 	3PPI Enablement | Lewis Daly, Sam Kummary, Michael Richards, Chetan Manjeshwar |
+| 1:40 PM 	       | 2:10 PM      	| 30 mins  | Core Clearing System Extensions | 	Merchant Scheme Extensions inc QR Support | Paul Makin, Justus Ortlepp, Lewis Daly, Sam George |
+| 2:10 PM 	       | 2:40 PM      	| 30 mins  | Core Clearing System Extensions | 	Bulk Payments Enhancement |	Paul Makin
+| 2:40 PM 	       | 3:00 PM      	| 20 mins  | Break + Trivia Tournament | | |
+| 3:00 PM 	       | 3:40 PM      	| 40 mins  | Core Clearing System |	ISO20022 | Michael Richards |
+| 3:40 AM 	       | 4:00 PM      	| 20 mins  | Core Clearing System Extensions | FX Support 	Michael Richards |
+
 
 ### Day Two
-__Wednesday, October 27, 2021__
-
-| Start (UTC) | End (UTC) | Duration   | Topic | Title | Speaker(s) |
-| ----------- | --------- | ---------- | ----- | ----- | ---------- |
-| 11:00 AM |	11:20 AM | 20 Mins |  Governance |	Governace update: Design Authority, Change Control Board, Community Council, Product Council |	Lewis Daly, Sam Kummary, Simeon Oriko |
-| 11:20 AM |	11:30 AM | 10 mins | **Break** | | | 		
-| 11:30 AM |	11:50 AM | 20 Mins |  Core Clearing System Extensions |	Overlay Services (3PPI Enablement) </br> - [Slides](presentations/pi_16_3ppi_pisp.pdf) |	Lewis Daly, JJ Geewax |
-| 11:50 AM |	12:00 PM | 10 mins | **Break** | | | 		
-| 12:00 PM |	12:50 PM | 50 Mins |  Core Clearing System Extensions |	Cross Network Support (FX) // Best Practice National RTP ISO20022 Messaging |	Michael Richards |
-| 12:50 PM |	1:00 PM  | 10 mins | **Break** | | | 		
-| 01:00 PM |	1:20 PM  | 20 Mins |  Core Clearing System |	Microsoft Presentation |	Jason Gregory |
-| 01:20 PM |	1:30 PM  | 10 mins | **Break** | | | 		
-| 01:30 PM |	1:50 PM  | 20 mins |  Supporting Workstreams |	Small Asks & Changes |	Michael Richards, Lesely-Ann Vaughan |
-| 01:50 PM |	2:00 PM  | 10 mins | **Break** | | | 		
-| 02:00 PM |	2:50 PM  | 50 mins |  Supporting Workstreams | Documentation, Onboarding and Sandbox </br> - [Slides](presentations/pi_16_docs_onboarding_sandbox.pdf)|	Uduak Obong-Eren, Sam Kummary, Lewis Daly |
-| 02:50 PM |	3:00 PM  | 10 mins | **Break** | | | 		
-| 03:00 PM |	3:50 PM  | 50 mins |  Adjacent Marketplace Teams |	OSS FRMS Solution (“Actio”) |	Justus Ortlepp |
-| 03:50 PM |	4:00 PM  | 10 mins | **Break** | | | 		
-| 04:00 PM |	4:30 PM  | 30 mins | | Open discussions | |
-
-End of Day Two  
-
+__Wednesday, January 26, 2022__
+| Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
+| ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
+| 11:00 AM 	       | 12:00 PM       | 60 mins  | Supporting Workstreams | Core team Update | Sam Kummary, Miguel de Barros, Vijay Guthi |
+| 12:00 PM 	       | 12:40 PM       | 40 mins  | Supporting Workstreams | Code quality and Security | Godfrey Kutumela |
+| 12:40 PM 	       | 12:55 PM       | 15 mins  | Break + Trivia Tournament | | | 	
+| 12:55 PM 	       | 1:25 PM        | 30 mins  | Supporting Workstreams | Documentation, Onboarding & Sandbox Updates | Lewis Daly
+| 1:25 PM 	       | 2:05 PM        | 40 mins  | Supporting Workstreams |	OSS FRMS Solution (Actio) | Justus Ortlepp, Rob Reeve |
+| 2:05 PM 	       | 2:20 PM        | 15 mins  | Break + Trivia Tournament | | |  	
+| 2:20 PM 	       | 3:00 PM        | 40 mins  | Mojaloop Ecosystem Updates | Microsoft and Mojaloop Status |	Greg McCormick, Jason Darmanovich |
+| 3:00 PM 	       | 3:40 PM        | 40 mins  | Mojaloop Ecosystem Updates |	MAS Centre Of Excellence / CBDC Update | Paula Hunter |
+| 3:40 PM 	       | 4:00 PM        | 20 mins  | Product Council / Product Updates | Paul Makin |
 
 ### Day Three
+__Thursday, January 27, 2022__
 
-__Thursday, October 28, 2021__
-
-| Start (UTC) | End (UTC) | Duration   | Topic | Title | Speaker(s) |
-| ----------- | --------- | ---------- | ----- | ----- | ---------- |
-| 11:00 AM | 12:00 PM | 60 Mins | | Roadmap Presentations | Lesley-Ann Vaughan, Kim Walters
-| 12:00 PM | 12:15 PM | 15 mins | | Workstream Voting | |
-| 12:15 PM | 01:45 PM | 90 Mins | | Workstream Breakouts | |	
-| 01:45 PM | 03:05 PM | 80 mins | | Report Outs and Closing | Kim Walters|
-
-End of Day Three -->
+| Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
+| ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
+| 11:00 AM         |  12:00 PM      | 60 mins | Roadmap Presentations | Kim Walters |
+| 12:00 PM         |  12:10 PM      | 10 mins | Break 	| | 
+| 12:10 PM         |  1:10 PM       | 60 mins | Workstream Breakouts | |
+| 1:10 PM          |  1:30 PM       | 20 mins | Break + Trivia Tournament Wrap Up | | 	
+| 1:30 PM          |  2:10 PM       | 40 mins | Report Outs and Discussion |	Kim Walters |
+| 2:10 PM          |  2:50 PM       | 40 mins | Mojaloop Community Awards | Simeon Oriko |
+| 2:50 PM          |  3:00 PM       | 10 mins | Closing | Simeon Oriko |
