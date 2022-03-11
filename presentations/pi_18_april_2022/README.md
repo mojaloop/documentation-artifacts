@@ -1,7 +1,7 @@
 # PI 18 Mojaloop Community Event Agenda
 
 > **Mount Meru Hotel, Arusha, TZ | Online**  
-> __April 25th - 28th 2022__
+> __April 24th - 28th 2022__
 
 ### Handy Links:
 <!-- * Register for the Zoom Webinar: https://us06web.zoom.us/meeting/register/tZAsc-qpqzIoGdx2KA4tF4qYfYl_pDR3wE-k -->
