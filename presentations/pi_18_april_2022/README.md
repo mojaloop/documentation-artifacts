@@ -24,7 +24,8 @@ __Monday, April 24, 2022__
 | ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
 | 1:00 PM 	       | 1:30 PM      	| 30 mins  | Welcome + Introduction | |	|
 | 1:30 PM 	       | 3:00 PM      	| 90 mins  | Introduction to Mojaloop  | |	|
-| 3:00 PM 	       | 4:00 PM      	| 60 mins  | Technical Deep Dive  | |	|
+| 3:00 PM 	       | 4:00 PM      	| 60 mins  | Main Room: Business Scnearios Deep Dive  | |	|
+| 3:00 PM 	       | 4:00 PM      	| 60 mins  | 2nd Room: Technical Deep Dive  | |	|
 
 ### Day One
 __Tuesday, April 25, 2022__
