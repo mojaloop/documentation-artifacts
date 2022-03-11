@@ -19,6 +19,13 @@
   https://docs.google.com/spreadsheets/d/1ZkpnFcqe5ZdISssCskTIxdxw4ml-5HC7PKR-JVyXFMs/edit#gid=101830874 
  
  -->
+### Pre-Session & Business Event
+__Monday, April 24, 2022__
+| Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
+| ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
+| 2:00 PM 	       | 2:30 PM      	| 30 mins  | Welcome + Introduction | |	|
+| 2:30 PM 	       | 3:00 PM      	| 30 mins  | Reserved for Business Session | |	|
+
 
 ### Day One
 __Tuesday, April 25, 2022__
