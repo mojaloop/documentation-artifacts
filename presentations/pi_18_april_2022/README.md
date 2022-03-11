@@ -4,7 +4,6 @@
 > __April 25th - 28th 2022__
 
 ### Handy Links:
-* Discourse: https://community.mojaloop.io
 <!-- * Register for the Zoom Webinar: https://us06web.zoom.us/meeting/register/tZAsc-qpqzIoGdx2KA4tF4qYfYl_pDR3wE-k -->
 * Downloads:
   - Speaker [PowerPoint presentation template](./presentations/presentation_template.pptx)
