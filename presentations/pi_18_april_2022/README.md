@@ -22,9 +22,9 @@
 __Monday, April 24, 2022__
 | Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
 | ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
-| 2:00 PM 	       | 2:30 PM      	| 30 mins  | Welcome + Introduction | |	|
-| 2:30 PM 	       | 3:00 PM      	| 30 mins  | Reserved for Business Session | |	|
-
+| 1:00 PM 	       | 1:30 PM      	| 30 mins  | Welcome + Introduction | |	|
+| 1:30 PM 	       | 3:00 PM      	| 90 mins  | Introduction to Mojaloop  | |	|
+| 3:00 PM 	       | 4:00 PM      	| 60 mins  | Technical Deep Dive  | |	|
 
 ### Day One
 __Tuesday, April 25, 2022__
