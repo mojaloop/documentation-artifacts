@@ -1,7 +1,7 @@
 # PI 18 Mojaloop Community Event Agenda
 
 > **Mount Meru Hotel, Arusha, TZ | Online**  
-> __April 24th - 28th 2022__
+> __April 25th - 28th 2022__
 
 ### Handy Links:
 <!-- * Register for the Zoom Webinar: https://us06web.zoom.us/meeting/register/tZAsc-qpqzIoGdx2KA4tF4qYfYl_pDR3wE-k -->
@@ -19,7 +19,7 @@
  
  -->
 ### Pre-Session & Business Event
-__Monday, April 24, 2022__
+__Monday, April 25, 2022__
 | Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
 | ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
 | 1:00 PM 	       | 1:30 PM      	| 30 mins  | Welcome + Introduction | |	|
@@ -28,7 +28,7 @@ __Monday, April 24, 2022__
 | 3:00 PM 	       | 4:00 PM      	| 60 mins  | 2nd Room: Technical Deep Dive  | |	|
 
 ### Day One
-__Tuesday, April 25, 2022__
+__Tuesday, April 26, 2022__
 
 
 | Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
@@ -42,7 +42,7 @@ __Tuesday, April 25, 2022__
 
 
 ### Day Two
-__Tuesday, April 26, 2022__
+__Tuesday, April 27, 2022__
 
 | Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
 | ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
@@ -61,7 +61,7 @@ __Tuesday, April 26, 2022__
 
 
 ### Day Three
-__Wednesday, April 27, 2022__
+__Wednesday, April 28, 2022__
 
 | Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
 | ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
@@ -79,7 +79,7 @@ __Wednesday, April 27, 2022__
 
 
 ### Day Four
-__Thursday, April 28, 2022__
+__Thursday, April 29, 2022__
 
 | Time Start (UTC) | Time End (UTC) | Duration | Theme | Presentation Description | Speaker(s) |
 | ---------------- | -------------- | -------- | ----- | ------------------------ | ---------- |
