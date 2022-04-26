@@ -5,3 +5,4 @@ RAW DECKS will be removed after sessions
  
 merchant payments section here: https://www.dropbox.com/s/a9lvulpw6ucwloh/video2076481576.mp4?dl=0
  
+https://drive.google.com/file/d/1mL-LaktAXUDHVpDS86eTBvwtvDiGpV7c/view
