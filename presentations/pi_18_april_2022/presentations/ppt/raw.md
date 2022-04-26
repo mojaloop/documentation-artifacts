@@ -11,3 +11,4 @@ https://drive.google.com/file/d/10qGv-M7bq_rl-D9vIt9iBhmR4yrt5y5V/view
 
 https://drive.google.com/file/d/1FjSs4dsSn55h9LaIJ-ulNSzLsTDUDZSN/view?usp=sharing
 
+Azure - https://drive.google.com/file/d/1j3u0pVXTlnKHCwWclPUxcpeyL4AJLaEP/view
