@@ -15,3 +15,10 @@ Azure - https://drive.google.com/file/d/1j3u0pVXTlnKHCwWclPUxcpeyL4AJLaEP/view
 https://docs.google.com/presentation/d/1rRENpP120etCpGjzArToyLlf7sDmxACjDC9YVDSuOH4/edit#slide=id.p11
 
 https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwetransfer.com%2Fdownloads%2Fd927cf1b13509a7dc76bec53a3391a3720220426165749%2F491ebe0672a9801da1e1cf70e46e122320220426165814%2Fab5afa%3Futm_campaign%3DWT_email_tracking%26utm_content%3Dgeneral%26utm_medium%3Ddownload_button%26utm_source%3Dnotify_recipient_email&data=05%7C01%7Ckimw%40crosslaketech.com%7Caa38c42d23334a45179f08da27a610a8%7Ca0effc3b4ee44a469dcc89fd35b439f6%7C0%7C0%7C637865892206540565%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=7yKPo7f5JyKBsHG5CFuGaS%2BoPNcZHOvkQ2s7DqBYLec%3D&reserved=0
+
+
+
+https://us06web.zoom.us/w/82885890570?tk=r40aTKDD1vqI3se_SkMY95lY2KOfRW3HDb31pBj_V2c.DQMAAAATTGJSChZRUDlsRHFJZVNBZTAzT3BPaU90ckNRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=SnEzTDZIdVNwbVpxcDV5R3ZwM3hvQT09 
+
+https://www.youtube.com/watch?v=5jO7zookMdk
+https://www.youtube.com/watch?v=sufLKeDGdUA
