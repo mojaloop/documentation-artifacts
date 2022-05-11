@@ -15,7 +15,7 @@
 |:----|:----|:----|:----|
 |Monday, April 25, 2022| | | |
 |10:30 AM - 1:00:00 PM|Welcome and Introduction|30 Mins|Paula, Simeon|
-| |Importance of Realtime Interoperable Payments in Tanzania|60 Mins|Bernard J Dadi, Isack Nchunda, Abdulmajid Nsekela, Miller Abel|
+| |Importance of Realtime Interoperable Payments in Tanzania <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_18_april_2022/presentations/Importance%20of%20RTPS%20in%20Tanzania%20(1).pdf)<br /><br /> [Video Recording](https://youtu.be/6jr8OH7JHZ4)|60 Mins|Bernard J Dadi, Isack Nchunda, Abdulmajid Nsekela, Miller Abel|
 | |Digital Public Goods|40 Mins|Steve Haley|
 | |Bridging Mojaloop with the Rest of the World|20 Mins|Damien Dugauquier, Michael Richards|
 |1:00 PM - 2:00 PM|LUNCH|1 Hour| |
