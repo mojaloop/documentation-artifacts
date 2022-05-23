@@ -23,8 +23,8 @@
 |2:00 PM - 5:00 PM|UNCDF's capacity building experience in Tanzania on open-source real-time payment systems. A system integrator's perspective.<br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/UNCDF%20Presentation%20Mojaloop%20convening_April%2025.2022.Final%20pptx%20(1).pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=9yjZyCba8ng&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=5) |40 Mins|Paul Damocha|
 | |Fraud Management Business Scenarios <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/DFS%20Fraud%20Mitigation.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=j3VcnFfRvus&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=6)|40 Mins|Charity Elkins, Mercy Buku|
 | |Business Models with Mojaloop: Setting up a scheme that matches all stakeholders' business models: Hard lessons from Myanmar. <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/SteveHaley%26NyiAye-MojaloopBusinessModel-MojaloopCommunityMeeting-Presentation-FINAL-20220425.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=Rm9ZL9IaShY&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=7)|40 Mins|Steve Haley, Nyi Aye|
-| |Exploratory Paper: Open Regulated Global Payments Network <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 Mins|Arunjay Katakam|
-| |Payment System Pricing Tool <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|20 Mins|Cici Northup|
+| |Exploratory Paper: Open Regulated Global Payments Network* <br /><br /> [Slide Deck](!)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=DkcXh3wBA_8&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=8)|40 Mins|Arunjay Katakam|
+| |Payment System Pricing Tool <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Glenbrook%20presentation.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=UHbGtT1sBns&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=9)|20 Mins|Cici Northup|
 |Tuesday, April 26, 2022| | | |
 |10:00 AM - 1:00:00 PM|Welcome and Community Introduction <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Simeon Oriko|
 | |vNext Build Progress Update <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/vNext%20-%20Apr2022%20Update.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=jN44jsVc7AE&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=11)|60 Mins|Pedro Barreto, Miguel Barros|
@@ -45,13 +45,13 @@
 |1:00 PM - 12:00 PM|LUNCH| | |
 |2:00 PM - 5:00 PM|Increasing Demand of L1P and IIPS in the HiPipo Community; Case of Mojaloop, How We Move Forward? <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/UGIIPS%20edited%2097-%202003_v1%20-%20Arusha%20Presentation_v7.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=NcNcpuwwdSY&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=23)|30 mins|Innocent Kawooya|
 | |Mojaloop Deployment Experience in Myanmar (Hub Operator’s Perspective) <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Deployment%20Experience%20in%20Myanmar%20(27.4.22)%20-%201.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=GG3ArE9yJ7M&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=24)|80 mins|Thynn Win, Pyae Phyo Lwin|
-| |Payment Hub EE <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 mins|Ed Cable|
+| |Payment Hub EE <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_18_april_2022/presentations/Mifos%20Lab%20Update%20-%20April%202022%20Hybrid%20Convening.pdf)<br /><br /> [Video Recording] (https://www.youtube.com/watch?v=dE-eDVnCxCA&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=26)|40 mins|Ed Cable|
 | |Offline Transactions: Introducing Payala and how to integrate with Mojaloop <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Payala-Mojaloop-Julian-Finn.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=Y1eQ3z4OKq8&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=27)|30 mins|Julian Finn|
 |5:00 PM - 5:30 PM|PHOTOS (One outside)/BREAK (Leave their stuff for photo)|30 mins| |
 |5:30 PM - 6:00 PM|BREAK|30 mins| |
 |6:00 PM - 7:00 PM|Cocktail Reception|1 hour| |
 |Thursday, April 28, 2022| | | |
-|10:00 AM - 1:00:00 PM|Product Council Session <br /><br /> [Slide Deck]()<br /><br /> [Video Recording](https://www.youtube.com/watch?v=TtfhuyJ-x1c&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=28)|40 Mintues|Paul Makin|
+|10:00 AM - 1:00:00 PM|Product Council Session* <br /><br /> [Slide Deck]()<br /><br /> [Video Recording](https://www.youtube.com/watch?v=TtfhuyJ-x1c&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=28)|40 Mintues|Paul Makin|
 | |Road Map Session <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Day%20%234%20Roadmap%20and%20Planning.pdf)<br /><br /> [Video Recording]()|50 Minutes|Workstreams|
 | |Voting|30 Minutes| |
 |12:00 PM - 1:00 Pm|LUNCH|1 hour| |
@@ -59,4 +59,4 @@
 | |Work Stream group 4,5,6|90 mins| |
 |2:30 PM - 2:45 PM|Break|15 Mins| |
 |2:45 PM - 4:00 PM|Report outs|45 mins| |
-| |Awards and Closing <br /><br /> [Video Recording](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Awards%20April%202022.pdf)
+| |Awards and Closing <br /><br /> [Slide Deck] <br /><br /> [Video Recording](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Awards%20April%202022.pdf)
