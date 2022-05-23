@@ -45,7 +45,7 @@
 |1:00 PM - 12:00 PM|LUNCH| | |
 |2:00 PM - 5:00 PM|Increasing Demand of L1P and IIPS in the HiPipo Community; Case of Mojaloop, How We Move Forward? <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/UGIIPS%20edited%2097-%202003_v1%20-%20Arusha%20Presentation_v7.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=NcNcpuwwdSY&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=23)|30 mins|Innocent Kawooya|
 | |Mojaloop Deployment Experience in Myanmar (Hub Operator’s Perspective) <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Deployment%20Experience%20in%20Myanmar%20(27.4.22)%20-%201.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=GG3ArE9yJ7M&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=24)|80 mins|Thynn Win, Pyae Phyo Lwin|
-| |Payment Hub EE <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_18_april_2022/presentations/Mifos%20Lab%20Update%20-%20April%202022%20Hybrid%20Convening.pdf)<br /><br /> [Video Recording] (https://www.youtube.com/watch?v=dE-eDVnCxCA&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=26)|40 mins|Ed Cable|
+| |Payment Hub EE <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_18_april_2022/presentations/Mifos%20Lab%20Update%20-%20April%202022%20Hybrid%20Convening.pdf) <br /><br /> [Video Recording](https://www.youtube.com/watch?v=dE-eDVnCxCA&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=26) |40 mins|Ed Cable|
 | |Offline Transactions: Introducing Payala and how to integrate with Mojaloop <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Payala-Mojaloop-Julian-Finn.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=Y1eQ3z4OKq8&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=27)|30 mins|Julian Finn|
 |5:00 PM - 5:30 PM|PHOTOS (One outside)/BREAK (Leave their stuff for photo)|30 mins| |
 |5:30 PM - 6:00 PM|BREAK|30 mins| |
@@ -59,4 +59,4 @@
 | |Work Stream group 4,5,6|90 mins| |
 |2:30 PM - 2:45 PM|Break|15 Mins| |
 |2:45 PM - 4:00 PM|Report outs|45 mins| |
-| |Awards and Closing <br /><br /> [Slide Deck] <br /><br /> [Video Recording](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Awards%20April%202022.pdf)
+| |Awards and Closing <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Awards%20April%202022.pdf) <br /><br /> [Video Recording](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Awards%20April%202022.pdf)
