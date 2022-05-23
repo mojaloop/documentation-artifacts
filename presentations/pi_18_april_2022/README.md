@@ -59,4 +59,4 @@
 | |Work Stream group 4,5,6|90 mins| |
 |2:30 PM - 2:45 PM|Break|15 Mins| |
 |2:45 PM - 4:00 PM|Report outs|45 mins| |
-| |Awards and Closing <br /><br /> [Video Recording] (https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Awards%20April%202022.pdf)
+| |Awards and Closing <br /><br /> [Video Recording](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop%20Awards%20April%202022.pdf)
