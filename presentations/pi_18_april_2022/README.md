@@ -27,8 +27,8 @@
 | |Payment System Pricing Tool <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|20 Mins|Cici Northup|
 |Tuesday, April 26, 2022| | | |
 |10:00 AM - 1:00:00 PM|Welcome and Community Introduction <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Simeon Oriko|
-| |vNext Build Progress Update <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|60 Mins|Pedro Barreto, Miguel Barros|
-| |Business Operations Framework <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 mins|Paul Baker|
+| |vNext Build Progress Update <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/vNext%20-%20Apr2022%20Update.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=jN44jsVc7AE&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=11)|60 Mins|Pedro Barreto, Miguel Barros|
+| |Business Operations Framework <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/PI18%20Biz%20Ops%20Framework%20review.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=8bIioUiWFJU&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=12)|40 mins|Paul Baker|
 | |An IOS 20022 Version of Mojaloop <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/ISO%2020022%20Workstream%20Report%20Out.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=1dQuolzSIZs&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=13)|50 Mins|Michael Richards|
 |1:00 PM - 2:00 PM|LUNCH| | |
 |2:00 PM - 5:00 PM|Mojaloop 3PPI Enablement <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/ml-3ppi-pi18-compressed.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=DV1O7p2A3DI&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=14)|40 mins|Sammuel Kummary|
@@ -37,8 +37,8 @@
 | |Mini Loop Update <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/mini-loop-update-v2.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=gohWshVBs34&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=16)|30 mins|Tom Daly|
 | |Mojaloop - TigerBeetle Integration <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop_Coil_TigerBeetle_PI18_meeting_Apr-2022.pptx.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=uczE_ZeLu_Q&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=17)|40 mins|Jason Bruwer|
 |Wednesday, April 27, 2022| | | |
-|10:00 AM - 1:00:00 PM|Mojaloop Releases & Core Maintenance <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|60 mins|Sammuel Kummary|
-| |Helm Charts v14 <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Tom Daly|
+|10:00 AM - 1:00:00 PM|Mojaloop Releases & Core Maintenance <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/ML_Core_PI18.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=mCE153LdtX0&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=18)|60 mins|Sammuel Kummary|
+| |Helm Charts v14 <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/ML-PI-18-mojaloop-helm-v14-status-v1.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=E5Nnt00ipKs&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=19)|30 mins|Tom Daly|
 | |Code Quality and Security <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Godfrey Kutumela|
 | |OSS FRMS Solution (Actio) <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Greg McCormick|
 | |Update on Mojaloop on Azure (Microsoft) <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Jason G., Mark Ihimoyan|
