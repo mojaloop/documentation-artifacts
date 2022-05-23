@@ -20,8 +20,8 @@
 | |Digital Public Goods <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/MojaloopCommunityMeeting-DPG%20-%2025%20April.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=iKYJciT1JPA&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=3)|40 Mins|Steve Haley|
 | |Bridging Mojaloop with the Rest of the World <br /><br /> [Slide Deck]()<br /><br /> [Video Recording] |, Michael Richards|
 |1:00 PM - 2:00 PM|LUNCH|1 Hour| |
-|2:00 PM - 5:00 PM|UNCDF's capacity building experience in Tanzania on open-source real-time payment systems. A system integrator's perspective.<br /><br /> [Slide Deck]()<br /><br /> [Video Recording]() |40 Mins|Paul Damocha|
-| |Fraud Management Business Scenarios <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 Mins|Charity Elkins, Mercy Buku|
+|2:00 PM - 5:00 PM|UNCDF's capacity building experience in Tanzania on open-source real-time payment systems. A system integrator's perspective.<br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/UNCDF%20Presentation%20Mojaloop%20convening_April%2025.2022.Final%20pptx%20(1).pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=9yjZyCba8ng&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=5) |40 Mins|Paul Damocha|
+| |Fraud Management Business Scenarios <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/DFS%20Fraud%20Mitigation.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=j3VcnFfRvus&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=6)|40 Mins|Charity Elkins, Mercy Buku|
 | |Business Models with Mojaloop: Setting up a scheme that matches all stakeholders' business models: Hard lessons from Myanmar. <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 Mins|Steve Haley, Nyi Aye|
 | |Exploratory Paper: Open Regulated Global Payments Network <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 Mins|Arunjay Katakam|
 | |Payment System Pricing Tool <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|20 Mins|Cici Northup|
@@ -29,13 +29,13 @@
 |10:00 AM - 1:00:00 PM|Welcome and Community Introduction <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Simeon Oriko|
 | |vNext Build Progress Update <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|60 Mins|Pedro Barreto, Miguel Barros|
 | |Business Operations Framework <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 mins|Paul Baker|
-| |An IOS 20022 Version of Mojaloop <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|50 Mins|Michael Richards|
+| |An IOS 20022 Version of Mojaloop <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/ISO%2020022%20Workstream%20Report%20Out.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=1dQuolzSIZs&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=13)|50 Mins|Michael Richards|
 |1:00 PM - 2:00 PM|LUNCH| | |
-|2:00 PM - 5:00 PM|Mojaloop 3PPI Enablement <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 mins|Sammuel Kummary|
-| |Merchant Scheme Extension in QR Support <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 mins|Lewis Daly, Justus Ortlepp|
-| |Bulk Payment Enhancement <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Paul Makin|
-| |Mini Loop Update <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Tom Daly|
-| |Mojaloop - TigerBeetle Integration <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|40 mins|Jason Bruwer|
+|2:00 PM - 5:00 PM|Mojaloop 3PPI Enablement <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/ml-3ppi-pi18-compressed.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=DV1O7p2A3DI&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=14)|40 mins|Sammuel Kummary|
+| |Merchant Scheme Extension in QR Support <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/pi_18_merchant_qr.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=IhllBEyJbh0&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=15)|40 mins|Lewis Daly, Justus Ortlepp|
+| |Bulk Payment Enhancement <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/PI18%20Bulk%20Payments%20-%20Progress%20Report.pdf)<br /><br /> [Video Recording]()|30 mins|Paul Makin|
+| |Mini Loop Update <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/mini-loop-update-v2.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=gohWshVBs34&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=16)|30 mins|Tom Daly|
+| |Mojaloop - TigerBeetle Integration <br /><br /> [Slide Deck](https://github.com/mojaloop/documentation-artifacts/raw/master/presentations/pi_18_april_2022/presentations/Mojaloop_Coil_TigerBeetle_PI18_meeting_Apr-2022.pptx.pdf)<br /><br /> [Video Recording](https://www.youtube.com/watch?v=uczE_ZeLu_Q&list=PLhqcvNJ3bJt4wGcVFUiwWVKBMgJphQrJF&index=17)|40 mins|Jason Bruwer|
 |Wednesday, April 27, 2022| | | |
 |10:00 AM - 1:00:00 PM|Mojaloop Releases & Core Maintenance <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|60 mins|Sammuel Kummary|
 | |Helm Charts v14 <br /><br /> [Slide Deck]()<br /><br /> [Video Recording]()|30 mins|Tom Daly|
