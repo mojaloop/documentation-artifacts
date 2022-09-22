@@ -1,7 +1,7 @@
 # PI 20 Mojaloop Community Event Agenda
 
 > **Zanzibar, Tanzania and Online**  
-> __OCt 25th - 28th 2022__
+> __Oct 25th - 28th 2022__
 
 ### Handy Links:
 * Downloads:
