@@ -7,7 +7,7 @@
 * Downloads:
   - Speaker [PowerPoint presentation template](./presentations/presentation_template.pptx)
   - Mojaloop [Zoom Background](./presentations/zoom_bg.png)  
-* Presentations and recordings will be added to this page as the event progresses
+  
 
 ## Agenda:
 
