@@ -12,4 +12,4 @@ Attendees will experience business & technical sessions, workstream workshops, c
   - [Slide Decks](https://github.com/mojaloop/documentation-artifacts/tree/master/presentations/pi_21_march_2023/presentations)
 * Presentations and recordings will be added to this page as the event progresses
 
-## Agenda: https://mojaloop.io/events/pi-21-oss-community-meeting/
+## Agenda: https://mojaloopcm23a.sched.com/print?iframe=yes&w=100%&sidebar=yes&bg=no
