@@ -12,67 +12,48 @@
 * Presentations and recordings will be added to this page as the event progresses
 
 ## Agenda
-| Time Start (UTC+2)       | Time End (UTC+2) | Duration   | Presentation Description                                                                                                                | Speaker(s) Name                                               |
-| ------------------------ | ---------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Tuesday, March 7, 2023   |                  |
-| 8:30 AM                  | 9:30 AM          | 60 minutes | Introduction to Level One Principles                                                                                                    | Miller Abel, Matt Bohan                                       |
-| 9:30 AM                  | 10:00 AM         | 30 minutes | Coffee + Registration                                                                                                                   |                                                               |
-| 10:00 AM                 | 10:10 AM         | 20 minutes | Welcome & Introduction                                                                                                                  | Paula Hunter, Steve Haley                                     |
-| 10:10 AM                 | 10:20 AM         | 10 minutes | Word from RISA                                                                                                                          | Innocent Muhizi                                               |
-| 10:20 AM                 | 10:30 AM         | 10 minutes | Word from Tanzania Business Council - Development of Digital Public Goods                                                               | Dr. Goodwill Wanga                                            |
-| 10:30 AM                 | 11:20 AM         | 50 minutes | Tanzanian Instant Payment System - a discussion with the Bank of Tanzania delivery team on the journey to build TIPS                    | Jane Stroucken, Innocent Ephraim, Muta (BoT) etc              |
-| 11:20 AM                 | 12:10 PM         | 50 minutes | Building the perfect pilot                                                                                                              | Steve Haley, Himi Deen Toure, Innocent Muhizi, John Muthoria  |
-| 12:00 PM                 | 12:10 PM         | 10 minutes | Break - No meal                                                                                                                         |                                                               |
-| 12:10 PM                 | 1:00 PM         | 50 minutes | Mojaloop Accelerator Program Progress and SIs Contributions                                                                             | Alain, Jean Claude                                            |
-| 1:00 PM                  | 2:00 PM          | 60 minutes | Lunch                                                                                                                                   |                                                               |
-| 2:00 PM                  | 2:30 PM          | 30 minutes | Interoperability Case Studies ( Rwanda & Kenya )                                                                                        | Michael Mbuthia                                               |
-| 2:30 PM                  | 3:10 PM          | 40 minutes | Setting up an operations team                                                                        | Pyae Phyo Lwin                                               |
-| 3:10 PM                  | 3:20 PM          | 10 minutes | Break - No meal                                                                                                                         |                                                               |
-| 3:20 PM                  | 4:10 PM          | 50 minutes | Finding Harmony: Establishing Interoperable Standards for Payments amongst DPIs for G2P and Social Protection                           | Edward Cable                                                  |
-| 4:10 PM                  | 4:40 PM          | 30 minutes | Close/Tea Break                                                                                                                         |                                                               |
-| 6:00 PM                  | 8:00 PM          | 2 hours    |  Cocktail Reception and Networking                                                                                                      |                                                               |
-| Wednesday, March 8, 2023 |                  |
-| 9:20 AM                  | 9:50 AM          |            | Coffee + Registration                                                                                                                   |                                                               |
-| 10:00 AM                 | 10:20 AM         | 20 minutes | Welcome and Introduction + Community Updates                                                                                            | Simeon Oriko                                                  |
-| 10:20 AM                 | 10:40 AM         | 20 minutes | Mojaloop Journey Phase 1                                                                                                                | Jane Stroucken                                                |
-| 10:40 AM                 | 11:40 AM         | 60 minutes | FRMS PoC                                                                                                                                | Greg McCormick                                                |
-| 11:40 AM                 | 11:50 AM         | 10 minutes | Break - no meal                                                                                                                         |                                                               |
-| 11:50 AM                 | 12:20 PM         | 30 minutes | Bootcamp and Azure Phase 2                                                                                                                           | Jason Gregory/Tom Daly/Kim Walters                                        |
-| 12:20 PM                 | 12:40 PM         | 20 minutes | Mojaloop Fintech Sandbox                                                                                                                | Sam Kummary                                                   |
-| 12:40 PM                 | 1:00 PM          | 20 minutes | Merchant Registration                                                                                                                         | Paul Makin                                       |
-| 1:00 PM                  | 2:00 PM          | 60 minutes | Lunch                                                                                                                                   |                                                               |
-| 2:00 PM                  | 3:00 PM          | 60 minutes | Journey to Contribution (TTK as a support tool)                                                                                                     | Paul Baker, Elijah Okello, Sam Kummary                                                   |
-| 2:30 PM                  | 3:00 PM          | 30 minutes | Bulk Payments                                                                                                                           | Paul Baker                                                    |
-| 3:30 PM                  | 3:40 PM          | 10 minutes | Break - no meal                                                                                                                         |                                                               |
-| 3:40 PM                  | 4:20 PM          | 40 minutes | Technical Updates and Contribution to Mojaloop Community                                                                                | Aung Thaw Aye (CTO, ThitsaWorks)                              |
-| 4:20 PM                  | 5:00 PM          | 40 minutes | Cy LAB                                                                                                                       |Andrew Musoke                                                               |
-| 5:00 PM                  | 5:10 PM          | 10 minutes | Community Picture                                                                                                                       |                                                               |
-| 5:10 PM                  |                  |            | Close/Tea Break                                                                                                                         |                                                               |
-|                          |                  |            |                                                                                                                                         |                                                               |
-| Thursday, March 9, 2023  |                  |
-| 9:30 AM                  | 10:00 AM         |            | Coffee + Registration                                                                                                                   |                                                               |
-| 10:00 AM                 | 10:10 AM         | 10 minutes | Welcome and Introduction                                                                                                                | Paul Makin                                                    |
-| 10:10 AM                 | 10:40 AM         | 30 minutes | Cross Border Strategy                                                                                                                   | Steve Haley, Michael Richards, Julie Guetta , Arunjay Katakam |
-| 10:40 AM                 | 11:10 AM         | 30 minutes | Application of Mojaloop Technology for Cross-Border, Wallet-to-Wallet Remittance: Singapore-Myanmar and Singapore-Philippines Corridors | Min THA GYAW (CSO, ThitsaWorks)                               |
-| 11:10 AM                 | 11:20 AM         | 10 minutes | Break - no meal                                                                                                                         |                                                               |
-| 11:20 AM                 | 12:00 PM         | 40 minutes | Mojaloop and ISO 20022                                                                                                                  | Michael Richards                                              |
-| 12:00 PM                 | 12:20 PM         | 20 minutes | Interledger Updates                                                                                                                     | Michael Richards                                              |
-| 12:20 PM                 | 1:00 PM          | 40 minutes | Remittances with Rafiki and a Mojaloop CNP: a potential use case for The People's Clearinghouse                                         | Andres Arauz                                                  |
-| 1:00 PM                  | 2:00 PM          | 60 minutes | Lunch                                                                                                                                   |                                                               |
-| 2:00 PM                  | 2:40 PM          | 40 minutes | Mojaloop Core: Releases and maintenance                                                                                                 | Sam Kummary / Miguel de Barros                                |
-| 2:40 PM                  | 3:00 PM          | 20 minutes | G2P Connect/MOSIP Integration                                                                                                           | Paul Makin                                                    |
-| 3:00 PM                  | 3:30 PM          | 30 minutes | Mojaloop Settlement using TigerBeetle                                                                                                   | Jason Bruwer                                                  |
-| 3:30 PM                  | 3:40 PM          | 10 minutes | Break - no meal                                                                                                                         |                                                               |
-| 3:40 PM                  | 4:30 PM          | 50 minutes | Mojaloop vNext Status Update                                                                                                            | Pedro Barreto                                                 |
-| 4:30 PM                  | 4:50 PM          | 20 minutes | Mojaloop API's                                                                                                                          | Sam Kummary                                                   |
-| 4:50 PM                  |                  |            | Close/Tea Break                                                                                                                         |                                                               |
-|                          |                  |            |                                                                                                                                         |                                                               |
-| Friday, March 10, 2023   |                  |
-| 9:30 AM                  | 10:00 AM         |            | Coffee + Registration                                                                                                                   |                                                               |
-| 10:00 AM                 | 10:30 AM         | 30 minutes | Product Roadmap Recap and PI-22 Reviewed Roadmap                                                                                        | Paul Makin                                                    |
-| 10:30 AM                 | 11:00 AM         | 30 minutes | PI-22 Workstreams and Updates to Roadmap                                                                                                | Paul Makin                                                    |
-| 11:00 AM                 | 11:10 AM         | 10 minutes | Break - no meal                                                                                                                         |                                                               |
-| 11:10 AM                 | 12:30 PM         | 80 minutes | Breakouts                                                                                                                               |                                                               |
-| 12:30 PM                 | 12:45 PM         | 15 minutes | Product Wrap Up                                                                                                                         |                                                               |
-| 12:45 PM                 | 1:00 PM          | 15 minutes | Community Awards + Wrap up                                                                                                              |                                                               |
-| 1:00 PM                  | 2:00 PM          |            | Lunch                                                                                                                                   |                                                               |
+
+### Tuesday 27th June 2023
+
+| Time Start (UTC) | Time End (UTC) | Duration   | Theme             | Format | Presentation Description                                  | Speaker(s) Name                              |
+|------------------|----------------|------------|-------------------|--------|-----------------------------------------------------------|----------------------------------------------|
+| 11:00 AM         | 11:10 AM       | 10 minutes |                   |        | Welcome & Intro                                           | Paula Hunter                                 |
+| 11:10 AM         | 11:30 AM       | 20 minutes | Foundation Update |        | Engineering Strategy                                      | James Bush                                   |
+| 11:30 AM         | 12:00 PM       | 30 minutes | Foundation Update |        | Intro to Infrastructure: What deployment, Where, Why, How | James Bush                                   |
+| 12:00 PM         | 12:20 PM       | 20 minutes |                   |        | Break                                                     |                                              |
+| 12:20 PM         | 12:40 PM       | 20 minutes | Pillar 1          |        | MiniLoop                                                  | Tom Daly                                     |
+| 12:40 PM         | 1:00 PM        | 20 minutes | Pillar 1          |        | Alternative Multi-Cloud Native Deployment Tool            | Tom Daly                                     |
+| 1:00 PM          | 1:40 PM        | 40 minutes | Pillar 1          |        | Mojaloop On-Prem                                          | David Fry                                    |
+| 1:40 PM          | 2:10 PM        | 30 minutes | Pillar 1          |        | Crossborder SIG                                           | Michael Richards / Paul Makin                |
+| 2:10 PM          | 2:30 PM        | 20 minutes |                   |        | Break                                                     |                                              |
+| 2:30 PM          | 2:50 PM        | 20 minutes | Pillar 1          |        | Fintech Sandbox                                           | Sam Kummary                                  |
+| 2:50 PM          | 3:30 PM        | 40 minutes | Pillar 2          |        | Merchant Payments / PISP Merchant Request to Pay (MRTP)   | Karim Jindani / Alain Kajangwe / Sam Kummary |
+| 3:30 PM          | 4:00 PM        | 30 minutes | Ecosystem Update  |        | DFS Lab Bootcamp Presentation                             | TBD                                          |
+
+### Wednesday 28th June 2023
+
+| Time Start (UTC) | Time End (UTC) | Duration   | Theme             | Format | Presentation Description                                  | Speaker(s) Name                              |
+|------------------|----------------|------------|-------------------|--------|-----------------------------------------------------------|----------------------------------------------|
+| 11:00 AM | 11:20 AM | 20 minutes | Foundation Update |  | PoC + Accelerator                               | Steve Haley                       |
+| 11:20 AM | 11:40 AM | 20 minutes | Pillar 3          |  | Interledger updates / XB Settlement: CNP        | Michael Richards / Nyi Aye        |
+| 11:40 AM | 12:00 PM | 20 minutes | Pillar 3          |  | XB Addressing                                   | Paul Makin / Sam Kummary          |
+| 12:00 PM | 12:30 PM | 30 minutes | Pillar 3          |  | XB Messaging: ISO20022                          | Michael Richards / Justus Ortlepp |
+| 12:30 PM | 12:50 PM | 20 minutes |                   |  | Break                                           |                                   |
+| 12:50 PM | 1:10 PM  | 30 minutes | Pillar 3          |  | G2P Connect/MOSIP Integration                   | Paul Baker / Sam Kummary          |
+| 1:10 PM  | 1:50 PM  | 40 minutes | Pillar 3          |  | vNext                                           | Pedro Barreto                     |
+| 1:50 PM  | 2:20 PM  | 30 minutes | Pillar 3          |  | Foreign Exchange Support: API, plus TTK support | Michael Richards / Vijay Kumar    |
+| 2:20 PM  | 2:50 PM  | 30 minutes | Quality Product   |  | Next gen Settlement/TigerBeetle Integration     | Jason Bruwer / Michael Richards   |
+| 2:50 PM  | 3:10 PM  | 20 minutes |                   |  | Break                                           |                                   |
+| 3:10 PM  | 3:30 PM  | 20 minutes | Quality Product   |  | Core Team/Documentation updates                 | Sam Kummary / Miguel de Barros    |
+| 3:30 PM  | 3:50 PM  | 20 minutes | Quality Product   |  | Mojaloop Update and Lifecycle Management        | Tom Daly                          |
+
+### Thursday 29th June 2023
+
+| Time Start (UTC) | Time End (UTC) | Duration   | Theme             | Format | Presentation Description                                  | Speaker(s) Name                              |
+|------------------|----------------|------------|-------------------|--------|-----------------------------------------------------------|----------------------------------------------|
+| 11:00 AM | 11:30 AM | 30 minutes |  |                | Product Council Roadmap: Goals, Objectives and Workstreams | Paul Makin   |
+| 11:30 AM | 12:30 PM | 60 minutes |  |                | TBD                                                        |              |
+| 12:30 PM | 1:00 PM  | 30 minutes |  |                | Break                                                      |              |
+| 1:00 PM  | 2:30 PM  | 90 minutes |  | Zoom Breakouts | Breakouts                                                  |              |
+| 2:30 PM  | 3:30 PM  | 60 minutes |  |                | Report outs                                                | Paul Makin   |
+| 3:30 PM  | 4:00 PM  | 30 minutes |  |                | Communtiy Awards + Closing                                 | Simeon Oriko |
