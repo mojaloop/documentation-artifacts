@@ -1,7 +1,8 @@
 # PI 22 Mojaloop Community Event 
 
-> **Virtual technical meeting**  
-> __June 27th - 29th 2023__
+**Virtual meeting**  
+June 27th - 29th 2023  
+[Registration and details](https://mojaloop.io/events/pi-22-oss-online-community-meeting/)
 
 
 ### Handy Links:
