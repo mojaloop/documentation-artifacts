@@ -7,6 +7,7 @@ June 27th - 29th 2023
 
 ### Handy Links:
 * Downloads:
+  - [Live Agenda](https://mojaloopcmjune2023.sched.com)
   - [Speaker PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_22_june_2023/presentations/presentation_template.pptx)
   - [New Mojaloop Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_22_june_2023/presentations/Zoom%20Background.png)
   - [Slide Decks](https://github.com/mojaloop/documentation-artifacts/tree/master/presentations/pi_22_june_2023/presentations) - presentations and recordings will be added to this page as the event progresses
