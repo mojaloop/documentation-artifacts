@@ -11,7 +11,7 @@ Join us for the PI-25 Mojaloop Online Open Source Community Meeting happening in
 * Downloads:
   - [Live Agenda](https://mojaloop.io/events/mojaloop-online-open-source-community-meeting/)
   - [Speaker PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_22_june_2023/presentations/presentation_template.pptx)
-  - [Mojaloop Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_22_june_2023/presentations/Zoom%20Background.png)
+  - [Mojaloop Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_25_jul_2024/presentations/PI-25–Community_Meeting_Zoom_Background.png)
   - [Slide Decks](https://github.com/mojaloop/documentation-artifacts/tree/master/presentations/pi_25_jul_2024/presentations) - presentations will be added to this page as the event progresses
 
 ## Agenda
