@@ -10,7 +10,7 @@ Join us for the PI-27 Mojaloop Open Source Community Meeting #27 happening in Ac
 ### Handy Links:
 * Downloads:
   - [Live Agenda](https://mojaloop.io/events/mojaloop-open-source-community-meeting-online-and-live-in-accra-ghana/)
-  - [Speaker PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_22_june_2023/presentations/presentation_template.pptx)
+  - [Speaker PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_27_apr_2025/community-members-mojaloop-PPT-template-apr25.pptx)
   - [Mojaloop Zoom Background](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_27_apr_2025/Mojaloop-Community-Meeting-Zoom-Graphics.png)
   - [Slide Decks](https://github.com/mojaloop/documentation-artifacts/tree/master/presentations/pi_27_apr_2025/presentations) - presentations will be added to this page as the event progresses
 
