@@ -1,4 +1,4 @@
-# PI 30 Mojaloop Community Online Event 
+# PI 31 Mojaloop Community Online Event 
 
 Mojaloop Open-Source Community Meeting #31: July 14-16, 2026
 
