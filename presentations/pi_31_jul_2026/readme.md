@@ -10,7 +10,7 @@ Join us for MojaCom 31! This three-day virtual event is a great opportunity to c
 ### Handy Links:
 * Downloads:
   - [Live Agenda](https://https://mojaloop.io/events/mojacom-31/)
-  - [Speaker PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_31_jul_2026/PPT_Template_MojaCom 31.pptx)
+  - [Speaker PowerPoint presentation template](https://github.com/mojaloop/documentation-artifacts/blob/master/presentations/pi_31_jul_2026/PPT_Template_MojaCom31.pptx)
   - [Slide Decks](https://github.com/mojaloop/documentation-artifacts/tree/master/presentations/pi_31_jul_2026/presentations) - presentations will be added to this page as the event concludes
 
 ## Agenda
